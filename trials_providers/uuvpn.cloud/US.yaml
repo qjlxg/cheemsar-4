@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国02 - uu加速首页, server: jsyd.yeahfast.com, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
+- {name: 🇺🇸 美国01 - uu加速首页, server: jsyd.yeahfast.com, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
+- {name: 🇺🇸 美国04 - uu加速首页, server: jsyd.yeahfast.com, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
