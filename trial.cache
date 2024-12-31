@@ -5,7 +5,7 @@ email  alakjxa90@gmail.com
 last_checkin  2024-12-31 21:19:06.899946+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.743G  2025-01-02 22:19:06+08:00  (剩余 5.743G 2 days, 0:59:55.822097)
+sub_info  0B  5.743G  2025-01-02 22:19:06+08:00  (剩余 5.743G 2 days, 0:39:10.839727)
 sub_url  https://www.mgnet.sbs/link/3duxo2XRIwv73OXt?sub=3
 time  2024-12-31 21:19:07.232107+08:00
 type  sspanel
@@ -17,7 +17,7 @@ email  ejurcwl405@gmail.com
 last_checkin  2024-12-31 21:19:10.499654+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-01-30 21:19:10+08:00  (剩余 1T 29 days, 23:59:56.121445)
+sub_info  0B  1T  2025-01-30 21:19:10+08:00  (剩余 1T 29 days, 23:41:21.859930)
 sub_url  https://aa.dabai.in/link/1YBDstHBHZMXXg3r?sub=3
 time  2024-12-31 21:19:11.945355+08:00
 type  sspanel
@@ -31,7 +31,7 @@ invite_code  qGFB  10000
 last_checkin  2024-12-31 21:19:36.727949+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.14G  2025-01-01 21:19:35+08:00  (剩余 10.14G 23:59:54.378076)
+sub_info  0B  10.14G  2025-01-01 21:19:35+08:00  (剩余 10.14G 23:41:51.739280)
 sub_url  http://175.178.9.20/link/I8M70aCnsZWrpH7L?sub=3
 time  2024-12-31 21:19:37.962329+08:00
 type  sspanel
@@ -44,7 +44,7 @@ invite_code  0919  9999
 last_checkin  2024-12-31 21:19:31.306095+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.11G  2025-01-01 21:19:31+08:00  (剩余 10.11G 23:57:55.002410)
+sub_info  0B  10.11G  2025-01-01 21:19:31+08:00  (剩余 10.11G 23:41:08.108958)
 sub_url  http://175.178.9.20/link/SMuI36k8hAWj71af?sub=3
 time  2024-12-31 21:19:32.262174+08:00
 type  sspanel
@@ -52,20 +52,20 @@ type  sspanel
 [nova.live]
 auto_invite  F
 buy  pass
-email  zqpzqwpl39@youxiang.dev
-last_checkin  2024-12-31 21:19:25.720761+08:00
+email  qluwxyii679@mail.shouyou789.com
+last_checkin  2024-12-31 21:37:54.304319+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.051G  2024-12-31 21:19:22+08:00  (剩余 1.051G -1 day, 23:59:51.757221)
-sub_url  https://new.gfw.news/link/GNU4MQiPgZZ4pPtW?sub=3
-time  2024-12-31 21:19:27.769167+08:00
+sub_info  0B  1.175G  2024-12-31 21:37:54+08:00  (剩余 1.175G -1 day, 23:59:47.940200)
+sub_url  https://new.gfw.news/link/nrsmtMk9ZEAdVrvU?sub=3
+time  2024-12-31 21:37:56.091903+08:00
 type  sspanel
 
 [www.duguletian.com]
 banned_domains  miteon.com
 name  独孤乐天
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(zophbzxe228@miteon.com)
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [littleqqq.co]
 buy  period=onetime_price&plan_id=5
@@ -76,19 +76,25 @@ sub_info  0B  1G  永不过期  (剩余 1G)
 sub_url  https://littleqqq.co/api/v1/client/subscribe?token=aea6e24d1392dcb88def98072f702451
 time  2024-12-31 21:19:10.016518+08:00
 type  v2board
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [portal.speedyyun.com]
 banned_domains  tmpeml.com
+buy  period=onetime_price&plan_id=2
+email  xrpdfeg185@guerrillamail.com
 name  速迪云加速
+node_n  2
+sub_info  0B  100G  永不过期  (剩余 100G)
+sub_url  https://portal.speedyyun.com/api/v1/client/subscribe?token=a429439243ce6b30ffb1ab69a772ca97
+time  2024-12-31 21:37:55.620191+08:00
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(bypffwkgm4@tmpeml.com)
 
 [hy-2.com]
 buy  pass
 email  swxyiju389@gmail.com
 name  HY-2
 node_n  5
-sub_info  0B  10G  2024-12-31 22:19:06+08:00  (剩余 10G 0:59:57.026831)
+sub_info  0B  10G  2024-12-31 22:19:06+08:00  (剩余 10G 0:41:24.892724)
 sub_url  https://dy.hy2.one/api/v1/client/subscribe?token=4c78e77ef290ebf0ffbbeca14943ee14
 time  2024-12-31 21:19:07.032651+08:00
 type  v2board
@@ -100,7 +106,7 @@ email  mxpyqqx723@gmail.com
 last_checkin  2024-12-31 21:19:10.323412+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-01-30 21:19:10+08:00  (剩余 1T 29 days, 23:59:56.462254)
+sub_info  0B  1T  2025-01-30 21:19:10+08:00  (剩余 1T 29 days, 23:41:27.808690)
 sub_url  https://www.dabai.in/link/uVhA1V3JNJ95TvYH?sub=3
 time  2024-12-31 21:19:11.698890+08:00
 type  sspanel
@@ -110,7 +116,7 @@ buy  pass
 email  nnzevqhvp672@gmail.com
 name  大师国际机场
 node_n  21
-sub_info  0B  2G  2025-01-01 01:19:07+08:00  (剩余 2G 3:59:56.878550)
+sub_info  0B  2G  2025-01-01 01:19:07+08:00  (剩余 2G 3:41:25.408758)
 sub_url  https://aicaicai.dashuai.us/api/v1/client/subscribe?token=313f00896bb57c53383600fb1562f1f7
 time  2024-12-31 21:19:08.712340+08:00
 type  v2board
@@ -120,7 +126,7 @@ buy  period=month_price&plan_id=1
 email  vgnyzheu182@gmail.com
 name  青云互联网-
 node_n  1
-sub_info  0B  50G  2025-02-08 09:19:06+08:00  (剩余 50G 38 days, 11:59:38.807607)
+sub_info  0B  50G  2025-02-08 09:19:06+08:00  (剩余 50G 38 days, 11:41:24.307355)
 sub_url  https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=05d1fbc001d513a0f52d6a8fb5f19a13
 time  2024-12-31 21:19:07.801769+08:00
 type  v2board
@@ -130,16 +136,23 @@ buy  pass
 email  avvpbnc404@gmail.com
 name  血液加速器
 node_n  12
-sub_info  0B  1G  2025-01-01 21:19:07+08:00  (剩余 1G 23:59:55.361312)
+sub_info  0B  1G  2025-01-01 21:19:07+08:00  (剩余 1G 23:41:24.106573)
 sub_url  http://hk.kjdjakskl.cyou/api/v1/client/subscribe?token=e476b0d99c8e0723d6402a6b54475884
 time  2024-12-31 21:19:08.547113+08:00
 type  v2board
 
 [ayucloud.services]
 auth_path  user
+auto_invite  F
+buy  pass
+email  vknygnvd110@x866.cc
+last_checkin  2024-12-31 21:37:47.512410+08:00
 name  AyucLouD-Services
+sub_url  https://network.ayucloud.nl/link/zkcfB0HnlyBJOa7R?sub=3
+time  2024-12-31 21:37:48.844445+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(odxqutz392@tmails.net): 邮箱后缀已被拉黑
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
 
 [cc.dabai.in]
 auto_invite  F
@@ -148,7 +161,7 @@ email  ssauhgo207@gmail.com
 last_checkin  2024-12-31 21:19:10.019117+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-01-30 21:19:09+08:00  (剩余 1T 29 days, 23:59:46.251889)
+sub_info  0B  1T  2025-01-30 21:19:09+08:00  (剩余 1T 29 days, 23:41:27.612240)
 sub_url  https://cc.dabai.in/link/O4Hq5pLsgQKFVhEB?sub=3
 time  2024-12-31 21:19:11.261221+08:00
 type  sspanel
@@ -156,31 +169,31 @@ type  sspanel
 [maoyun3.com]
 auto_invite  F
 buy  pass
-email  xwyrwrx15@gmail.com
-last_checkin  2024-12-31 21:19:11.373780+08:00
+email  xksjrzlt52@gmail.com
+last_checkin  2024-12-31 21:38:06.419107+08:00
 name  猫云
 node_n  1
-sub_info  0B  109M  2025-01-02 21:19:07+08:00  (剩余 109M 1 day, 23:59:50.403015)
-sub_url  https://abc.xhonor.top:9066/ssp/maoyun/link/AjVf4Kbx1fjv6Hq6?sub=3
-time  2024-12-31 21:19:12.849200+08:00
+sub_info  0B  16M  2025-01-02 21:38:06+08:00  (剩余 16M 1 day, 23:59:50.451503)
+sub_url  https://abc.xhonor.top:9066/ssp/maoyun/link/uAwLCShrnZSOSSNx?sub=3
+time  2024-12-31 21:38:07.447887+08:00
 type  sspanel
 
 [www.moonriver.sbs]
 buy  period=month_price&plan_id=6
 email  lpeavynn552@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-01-31 21:19:09+08:00  (剩余 1G 30 days, 23:52:42.996383)
+sub_info  0B  1G  2025-01-31 21:19:09+08:00  (剩余 1G 30 days, 23:32:30.475019)
 sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=20ccb1cb36fb4bad73aaabc966593532
 time  2024-12-31 21:19:10.322064+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 
 [lianjiasub.work]
 buy  pass
 email  hhnzfavd94@gmail.com
 name  廉价机场
 node_n  16
-sub_info  0B  20G  2025-01-01 00:19:08+08:00  (剩余 20G 2:59:52.982997)
+sub_info  0B  20G  2025-01-01 00:19:08+08:00  (剩余 20G 2:41:15.513866)
 sub_url  https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=b1b5de102445f7d6438e5d7e018f78d7
 time  2024-12-31 21:19:10.276886+08:00
 type  v2board
@@ -189,13 +202,13 @@ type  v2board
 auth_path  user
 auto_invite  F
 buy  pass
-email  rawwtgjr957@mynanaimohomes.com
-last_checkin  2024-12-31 21:19:25.070277+08:00
+email  mbbmgpvd430@guerrillamail.com
+last_checkin  2024-12-31 21:47:45.542481+08:00
 name  AyucLouD-Services
-sub_url  https://network.ayucloud.nl/link/SJDIz47rnc5upxWk?sub=3
-time  2024-12-31 21:19:27.235731+08:00
+sub_url  https://network.ayucloud.nl/link/rm6KQZgnQ9wxvNt8?sub=3
+time  2024-12-31 21:47:46.147364+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 
 [sub.cokecloud.world]
@@ -203,7 +216,7 @@ buy  pass
 email  fftxuky59@gmail.com
 name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 node_n  38
-sub_info  0B  1G  2024-12-31 22:19:07+08:00  (剩余 1G 0:59:53.146000)
+sub_info  0B  1G  2024-12-31 22:19:07+08:00  (剩余 1G 0:40:58.446769)
 sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=4c2ae7ad26834396ac9ea3ffb0e23697
 time  2024-12-31 21:19:09.381665+08:00
 type  v2board
@@ -218,7 +231,7 @@ api_host  uujiasu.com
 buy  pass
 email  cnwfrqt306@gmail.com
 name  uu加速首页
-sub_info  0B  1G  2025-01-01 21:19:07+08:00  (剩余 1G 23:59:46.163670)
+sub_info  0B  1G  2025-01-01 21:19:07+08:00  (剩余 1G 23:41:18.407088)
 sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=5a8aecd3d590f86bc615784eef544b76
 time  2024-12-31 21:19:08.797379+08:00
 type  v2board
@@ -229,36 +242,30 @@ buy  pass
 email  weqdlfa838@gmail.com
 name  LIME
 node_n  30
-sub_info  0B  1G  2024-12-31 22:19:06+08:00  (剩余 1G 0:59:56.055224)
+sub_info  0B  1G  2024-12-31 22:19:06+08:00  (剩余 1G 0:41:17.307052)
 sub_url  https://dy.lime5.xyz/api/v1/client/subscribe?token=f8d94c1aa4d3e24edf987d0b5fc82d75
 time  2024-12-31 21:19:07.366239+08:00
 type  v2board
 
 [sulink.pro]
 buy  pass
-email  pscsjzq291@gmail.com
+email  inmhsusau485@gmail.com
 name  SuLink速联网络
 node_n  2
-sub_info  0B  30G  2024-12-31 21:27:41+08:00  (剩余 30G 0:08:31.334970)
-sub_url  https://dy.sulian.life/api/v1/client/subscribe?token=28282275db43086873b6d9764a6ebd50
-time  2024-12-31 21:19:07.682527+08:00
+sub_info  0B  30G  2024-12-31 21:46:25+08:00  (剩余 30G 0:08:22.400204)
+sub_url  https://dy.sulian.life/api/v1/client/subscribe?token=332b6d4da9b4e9d407645cd90e40aaff
+time  2024-12-31 21:37:51.949535+08:00
 type  v2board
 
 [lanmaoyun.icu]
 buy  pass
 email  cbruskse564@gmail.com
 name  蓝猫云
-sub_info  0B  3G  2025-01-01 00:18:09+08:00  (剩余 3G 2:51:40.345976)
+sub_info  0B  3G  2025-01-01 00:18:09+08:00  (剩余 3G 2:30:08.072116)
 sub_url  https://subscribe7232.lanmaoyun.icu/api/v1/client/subscribe?token=6bc8979b42bfdfc64f7b9a00f1be7874
 time  2024-12-31 21:19:31.794809+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
-
-[dd.dabai.in]
-
-[ee.dabai.in]
-
-[ff.dabai.in]
 
 [bb.dabai.in]
 auto_invite  F
@@ -267,7 +274,7 @@ email  vhpxfqmql91@gmail.com
 last_checkin  2024-12-31 21:19:10.154532+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-01-30 21:19:09+08:00  (剩余 1T 29 days, 23:59:55.277636)
+sub_info  0B  1T  2025-01-30 21:19:09+08:00  (剩余 1T 29 days, 23:39:16.402952)
 sub_url  https://bb.dabai.in/link/2nRdy7dP7oxgVTn2?sub=3
 time  2024-12-31 21:19:11.577430+08:00
 type  sspanel
@@ -276,24 +283,29 @@ type  sspanel
 buy  period=month_price&plan_id=1
 email  wikmlsj286@gmail.com
 name  懒猫机场
-sub_info  0B  99G  2025-01-31 21:19:09+08:00  (剩余 99G 30 days, 23:52:52.738250)
+sub_info  0B  99G  2025-01-31 21:19:09+08:00  (剩余 99G 30 days, 23:31:35.832841)
 sub_url  https://dy.yimao.icu/api/v1/client/subscribe?token=0a329a33bd44e403ce8303d98b1d1fee
 time  2024-12-31 21:19:10.662476+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 
 [www.f2ray.com]
 banned_domains  miteon.com
+buy  pass
+email  kdjpktwsk534@x866.cc
 name  F2ray
+node_n  1
+sub_info  0B  10G  2025-01-30 21:37:56+08:00  (剩余 10G 29 days, 23:59:56.221021)
+sub_url  https://www.f2ray.com/api/v1/client/subscribe?token=0bd84e5dae99d2c9240b29971ad1337a
+time  2024-12-31 21:37:57.757475+08:00
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(azepbppq394@miteon.com)
 
 [sub.xueyejiasu.com]
 buy  pass
 email  krzlzvq308@gmail.com
 name  血液加速器
 node_n  12
-sub_info  0B  1G  2025-01-01 21:19:07+08:00  (剩余 1G 23:59:55.302784)
+sub_info  0B  1G  2025-01-01 21:19:07+08:00  (剩余 1G 23:41:24.454352)
 sub_url  http://hk.kjdjakskl.cyou/api/v1/client/subscribe?token=17fff59c66c04957955bc8599013f5d2
 time  2024-12-31 21:19:08.597250+08:00
 type  v2board
@@ -307,18 +319,19 @@ sub_info  0B  1G  永不过期  (剩余 1G)
 sub_url  https://littleqqq.co/api/v1/client/subscribe?token=bb9bb2cf344f04f44c71b02ca32fc697
 time  2024-12-31 21:19:10.985611+08:00
 type  v2board
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [tiedan.595418.xyz]
 name  铁蛋加速
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ctlgmvvrs371@gmail.com): 注册频繁，请等待 60 分钟后再次尝试
+更新订阅链接/续费续签失败  注册失败(egpnxpq413@gmail.com): 注册频繁，请等待 60 分钟后再次尝试
 
 [www.ducklink.net]
 buy  pass
 email  qlnuuwy252@gmail.com
 name  DuckLink
 node_n  10
-sub_info  0B  1G  2025-01-01 03:19:09+08:00  (剩余 1G 5:57:38.708014)
+sub_info  0B  1G  2025-01-01 03:19:09+08:00  (剩余 1G 5:41:20.083613)
 sub_url  https://sub.ducklink.net/api/v1/client/subscribe?token=bfbc2ab14d2273c9601a011aa4606a51
 time  2024-12-31 21:19:10.836704+08:00
 type  v2board
@@ -327,28 +340,28 @@ type  v2board
 buy  period=month_price&plan_id=6
 email  rmujlle847@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-01-31 21:19:10+08:00  (剩余 1G 30 days, 23:54:38.457488)
+sub_info  0B  1G  2025-01-31 21:19:10+08:00  (剩余 1G 30 days, 23:31:30.607997)
 sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=d45e488cb26142027771e952ef5c5bf4
 time  2024-12-31 21:19:11.028391+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 
 [dash2.moonriver.one]
 buy  period=month_price&plan_id=6
 email  rippsvm449@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-01-31 21:19:11+08:00  (剩余 1G 30 days, 23:55:04.474339)
+sub_info  0B  1G  2025-01-31 21:19:11+08:00  (剩余 1G 30 days, 23:30:29.266929)
 sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=a90dfa735aedd363cd27f488ea1237d1
 time  2024-12-31 21:19:12.886759+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 
 [www.diaomaojichang.top]
 buy  pass
 email  qyciymdrj613@gmail.com
 name  叼毛机场
 node_n  11
-sub_info  0B  5G  2025-01-01 21:19:14+08:00  (剩余 5G 23:59:56.905906)
+sub_info  0B  5G  2025-01-01 21:19:14+08:00  (剩余 5G 23:41:30.384538)
 sub_url  https://www.diaomaojichang.top/api/v1/client/subscribe?token=7b06022568621cfc73730bea9ee9440e
 time  2024-12-31 21:19:15.171053+08:00
 type  v2board
@@ -358,7 +371,7 @@ buy  pass
 email  ignsyjroh231@gmail.com
 name  KUGOU云
 node_n  45
-sub_info  0B  2G  2024-12-31 23:19:29+08:00  (剩余 2G 1:59:48.167256)
+sub_info  0B  2G  2024-12-31 23:19:29+08:00  (剩余 2G 1:39:32.867554)
 sub_url  https://anj98gera23jfa.ng45rtg5sexjy34.top/api/v1/client/subscribe?token=145c8006b10a07b329c923ff3a4e3a44
 time  2024-12-31 21:19:31.820746+08:00
 type  v2board
@@ -368,7 +381,7 @@ buy  pass
 email  tlpggpxgn800@gmail.com
 name  CloudFox
 node_n  66
-sub_info  0B  1G  2024-12-31 22:19:28+08:00  (剩余 1G 0:59:54.077381)
+sub_info  0B  1G  2024-12-31 22:19:28+08:00  (剩余 1G 0:41:41.244264)
 sub_url  https://dy.yh13.xyz/api/v1/client/subscribe?token=2bcc641962a54ea6d60bc4c7cc7ae965
 time  2024-12-31 21:19:29.505550+08:00
 type  v2board
@@ -378,7 +391,7 @@ buy  pass
 email  zsqhjptlu367@gmail.com
 name  NewBee国际机场
 node_n  23
-sub_info  0B  5G  2025-01-01 03:19:30+08:00  (剩余 5G 5:59:47.390007)
+sub_info  0B  5G  2025-01-01 03:19:30+08:00  (剩余 5G 5:41:33.687857)
 sub_url  https://subscribe-1.newbee8.monster/api/v1/client/subscribe?token=1769834be84444de9100988c415629d4
 time  2024-12-31 21:19:32.629424+08:00
 type  v2board
@@ -386,11 +399,11 @@ type  v2board
 [mcecloud.com]
 auto_invite  F
 buy  pass
-email  evtdgnx996@gmail.com
-last_checkin  2024-12-31 21:19:36.652245+08:00
+email  xuncsml687@gmail.com
+last_checkin  2024-12-31 21:47:24.028676+08:00
 name  至云互联
-sub_url  https://abc.xhonor.top:9066/ssp/mce/link/Rye9qTTODOJ3pxpb?sub=3
-time  2024-12-31 21:19:37.753852+08:00
+sub_url  https://abc.xhonor.top:9066/ssp/mce/link/CBKIyy9VClKCWDHD?sub=3
+time  2024-12-31 21:47:24.749661+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
