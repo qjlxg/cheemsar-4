@@ -1,16 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 0678461d-6f45-4739-8a94-a235154391fd, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 0678461d-6f45-4739-8a94-a235154391fd, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: 1ad06d04672a9f37358a420a3747c4fb.node.tro.node-is.green, port: 46776, type: trojan, password: 1235e0e8-7413-4fcd-8866-01446e95a55f, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: 9204192c17669596a5190b1b9d0fa1c3.node.tro.node-is.green, port: 45482, type: trojan, password: 1235e0e8-7413-4fcd-8866-01446e95a55f, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, udp: true}
-- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, udp: true}
-- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03 - uu加速首页, server: jsyd.yeahfast.com, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
-- {name: 🇸🇬 新加坡01 - uu加速首页, server: jsyd.yeahfast.com, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
-- {name: 🇸🇬 新加坡02 - uu加速首页, server: jsyd.yeahfast.com, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, tfo: true, type: vmess, uuid: 9dd174f0-86bf-32fc-ad47-7d608da652cf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 58980c03-938e-49e6-b35b-7e36933c0bb5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, tfo: true, type: vmess, uuid: ba677c11-2142-3ccf-868b-ffe95f477161, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}

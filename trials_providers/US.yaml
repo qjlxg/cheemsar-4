@@ -1,59 +1,36 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国NO.1（GPT） - 大师国际机场, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 0678461d-6f45-4739-8a94-a235154391fd, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国NO.2（GPT） - 大师国际机场, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 0678461d-6f45-4739-8a94-a235154391fd, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id016 {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id017 {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id018 {name: 🇺🇸 Game 美国03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 903, type: ss, cipher: aes-128-gcm, password: ay2l23ud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id019 {name: 🇺🇸 Game 美国04-通用 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 910, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id020 {name: 🇺🇸 Game 美国05-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 906, type: ss, cipher: aes-128-gcm, password: ay2loud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id021 {name: 🇺🇸 Video 美国A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 820, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id022 {name: 🇺🇸 Video 美国B-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 809, type: ss, cipher: aes-128-gcm, password: ayucjrsll, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id023 {name: 🇺🇸 Video 美国C-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 911, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id024 {name: 🇺🇸 Video 美国D-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 857, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id025 {name: 🇺🇸 Web 美国I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id026 {name: 🇺🇸 Web 美国II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id027 {name: 🇺🇸 Web 美国III-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
-- &id001 {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2095, type: vmess, uuid: 487107e5-053b-3689-8fa6-a767ba09f485, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.130.163, headers: {Host: 100-215-80-108.s4.cn-db.top}}, udp: true}
-- &id002 {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2052, type: vmess, uuid: 487107e5-053b-3689-8fa6-a767ba09f485, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.72.37, headers: {Host: 100-113-122-141.s1.db-link02.top}}, udp: true}
-- &id003 {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 8880, type: vmess, uuid: 487107e5-053b-3689-8fa6-a767ba09f485, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.90.41, headers: {Host: 100-54-61-12.s2.db-link02.top}}, udp: true}
-- &id004 {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2095, type: vmess, uuid: 487107e5-053b-3689-8fa6-a767ba09f485, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.97.130, headers: {Host: 100-238-172-124.s5.db-link02.top}}, udp: true}
-- &id005 {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s4.db-link02.top, port: 2082, type: vmess, uuid: 487107e5-053b-3689-8fa6-a767ba09f485, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.253.240, headers: {Host: 100-77-109-131.s4.db-link02.top}}, udp: true}
-- &id006 {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s5.db-link02.top, port: 2086, type: vmess, uuid: 487107e5-053b-3689-8fa6-a767ba09f485, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.123.214, headers: {Host: 100-184-24-214.s5.db-link02.top}}, udp: true}
-- &id007 {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s4.db-link02.top, port: 8880, type: vmess, uuid: 487107e5-053b-3689-8fa6-a767ba09f485, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.239.151, headers: {Host: 100-22-243-81.s4.db-link02.top}}, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 91e72f9bd85c842f8afe5ef419d10774.node.tro.node-is.green, port: 45965, type: trojan, password: 1235e0e8-7413-4fcd-8866-01446e95a55f, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 180ecaefeee2d2b083440403774642ce.node.tro.node-is.green, port: 43074, type: trojan, password: 1235e0e8-7413-4fcd-8866-01446e95a55f, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 6df36f1d3a0638af2cb3621ae86e8c83.node.tro.node-is.green, port: 46300, type: trojan, password: 1235e0e8-7413-4fcd-8866-01446e95a55f, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: c47ccab7f495b62db689ac311aea9d87.node.tro.node-is.green, port: 47465, type: trojan, password: 1235e0e8-7413-4fcd-8866-01446e95a55f, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- &id008 {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id009 {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id010 {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id011 {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- &id012 {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- &id013 {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id014 {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- &id015 {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 512f274c-9e6c-3c55-b805-594d41be7bbf, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: c9dabcbf-f85b-4799-99fc-68e8ea32ff21, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: c9dabcbf-f85b-4799-99fc-68e8ea32ff21, udp: true}
-- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, udp: true}
-- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, udp: true}
-- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40792, type: ss, cipher: chacha20-ietf-poly1305, password: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, udp: true}
-- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: ee33a8fb-b16e-47d9-9382-dbaa73de68c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - uu加速首页, server: jsyd.yeahfast.com, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
-- {name: 🇺🇸 美国01 - uu加速首页, server: jsyd.yeahfast.com, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
-- {name: 🇺🇸 美国04 - uu加速首页, server: jsyd.yeahfast.com, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: 7ee328d6-9b0e-4539-bcef-88c2eca5c191, udp: true}
+- &id009 {name: 🇺🇸 Game 美国01-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9873, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id010 {name: 🇺🇸 Game 美国02-原生 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 821, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id011 {name: 🇺🇸 Game 美国03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 903, type: ss, cipher: aes-128-gcm, password: ay2l23ud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id012 {name: 🇺🇸 Game 美国04-通用 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 910, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id013 {name: 🇺🇸 Game 美国05-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 906, type: ss, cipher: aes-128-gcm, password: ay2loud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id014 {name: 🇺🇸 Video 美国A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 820, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id015 {name: 🇺🇸 Video 美国B-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 809, type: ss, cipher: aes-128-gcm, password: ayucjrsll, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id016 {name: 🇺🇸 Video 美国C-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 911, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id017 {name: 🇺🇸 Video 美国D-原生 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 857, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id018 {name: 🇺🇸 Web 美国I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 925, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id019 {name: 🇺🇸 Web 美国II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 812, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id020 {name: 🇺🇸 Web 美国III-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 837, type: ss, cipher: aes-128-gcm, password: ayucl12s1, plugin: obfs, plugin-opts: {mode: http, host: 98f14104721.download.windowsupdate.com}, udp: true}
+- &id001 {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id004 {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- &id006 {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id007 {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- &id008 {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: a1132f70-9921-33a4-ab57-478681bf7539, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US000高速 - NovaLive, server: 52.34.94.52, port: 443, type: trojan, password: 5a2e5115-df1f-3fea-9855-7794e032ee6e, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 5a2e5115-df1f-3fea-9855-7794e032ee6e, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 5a2e5115-df1f-3fea-9855-7794e032ee6e, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 80, type: vmess, uuid: 2d8df5a0-58e6-37ff-8313-7846bcd2abdb, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.188.167, headers: {Host: 100-7-149-192.s1.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 80, type: vmess, uuid: 2d8df5a0-58e6-37ff-8313-7846bcd2abdb, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.1.165, headers: {Host: 100-82-120-104.s2.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 2086, type: vmess, uuid: 2d8df5a0-58e6-37ff-8313-7846bcd2abdb, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.194.137, headers: {Host: 100-211-38-256.s2.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2052, type: vmess, uuid: 2d8df5a0-58e6-37ff-8313-7846bcd2abdb, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.17.163, headers: {Host: 100-186-100-183.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.db-link01.top, port: 2086, type: vmess, uuid: 2d8df5a0-58e6-37ff-8313-7846bcd2abdb, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.49.163, headers: {Host: 100-167-129-67.s2.db-link01.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s5.cn-db.top, port: 2082, type: vmess, uuid: 2d8df5a0-58e6-37ff-8313-7846bcd2abdb, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.211.132, headers: {Host: 100-94-11-127.s5.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.cn-db.top, port: 2082, type: vmess, uuid: 2d8df5a0-58e6-37ff-8313-7846bcd2abdb, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.55.53, headers: {Host: 100-73-3-251.s3.cn-db.top}}, udp: true}
 - *id001
 - *id002
 - *id003
@@ -62,6 +39,16 @@ proxies:
 - *id006
 - *id007
 - *id008
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, tfo: true, type: vmess, uuid: ba677c11-2142-3ccf-868b-ffe95f477161, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, tfo: true, type: vmess, uuid: ba677c11-2142-3ccf-868b-ffe95f477161, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
 - *id009
 - *id010
 - *id011
@@ -69,20 +56,8 @@ proxies:
 - *id013
 - *id014
 - *id015
-- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, tfo: true, type: vmess, uuid: 9dd174f0-86bf-32fc-ad47-7d608da652cf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
-- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, tfo: true, type: vmess, uuid: 9dd174f0-86bf-32fc-ad47-7d608da652cf, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
-- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 6425dc65-bd30-4471-92b9-583387b5166b, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
 - *id016
 - *id017
 - *id018
 - *id019
 - *id020
-- *id021
-- *id022
-- *id023
-- *id024
-- *id025
-- *id026
-- *id027
-- {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 58980c03-938e-49e6-b35b-7e36933c0bb5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
-- {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 58980c03-938e-49e6-b35b-7e36933c0bb5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
