@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡03 - uu加速首页, server: jsyd.yeahfast.com, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: a445e29f-4f32-418a-a9bf-85d8e412b0a9, udp: true}
-- {name: 🇸🇬 新加坡01 - uu加速首页, server: jsyd.yeahfast.com, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: a445e29f-4f32-418a-a9bf-85d8e412b0a9, udp: true}
-- {name: 🇸🇬 新加坡02 - uu加速首页, server: jsyd.yeahfast.com, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: a445e29f-4f32-418a-a9bf-85d8e412b0a9, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: jscm1.yunnode.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: cebcf543-d4bc-4029-8412-7a97339ff9b5, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: jscm1.yunnode.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: cebcf543-d4bc-4029-8412-7a97339ff9b5, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: jscm1.yunnode.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: cebcf543-d4bc-4029-8412-7a97339ff9b5, udp: true}
