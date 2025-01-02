@@ -10,20 +10,21 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇹🇼 ‍台湾
+  - 🇭🇰 ‍香港
   - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
-  - 🇺🇸 美国5 - SuLink速联网络
+  use: &id001
+  - HK
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -40,18 +41,18 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇹🇼 ‍台湾
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
-  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
+  - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -60,32 +61,61 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇹🇼 ‍台湾
+- name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
+  use: &id002
+  - HK
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id003
-  - 🇺🇸 美国5 - SuLink速联网络
+  use: &id003
+  - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 100
+  use: &id004
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
-- name: 👆🏻🇹🇼 ‍台湾
+  use: *id001
+- name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id003
-proxies:
-- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 14d03051-1afa-4f60-ba2a-a1295e89858b, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
-- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 14d03051-1afa-4f60-ba2a-a1295e89858b, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
+  use: *id003
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id004
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tz.vfkum.website/HK.yaml
+    interval: 180
+    path: trials_providers/tz.vfkum.website/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tz.vfkum.website/US.yaml
+    interval: 180
+    path: trials_providers/tz.vfkum.website/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tz.vfkum.website/Other.yaml
+    interval: 180
+    path: trials_providers/tz.vfkum.website/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
