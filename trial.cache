@@ -1,18 +1,18 @@
 [doudoujsq.com]
 name  豆豆加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vbpqruk256@rgzx.tmmad.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(lootcghu856@444.vxqcp.shop): 邮箱后缀不处于白名单中
 
 [dash.doubao.one]
 api_host  interface.doubao.one
 name  DouBao 豆包
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fgzgrve891@bareed.ws): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [xunlian.site]
 name  迅联
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wtzqtflci291@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wbewfgma213@gmail.com): 'NoneType' object is not subscriptable
 
 [free.ninecloud.co]
 
@@ -20,29 +20,29 @@ type  v2board
 banned_domains  lista.cc
 name  流星
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(ygakvzu60@lista.cc)
+更新订阅链接/续费续签失败  注册失败(xaqugzn39@guerrillamail.org): 邮箱后缀不处于白名单中
 
 [huanjue.xyz]
 
 [zzz.youxuan.wiki]
 buy  pass
-email  wdeekgw743@gmail.com
+email  jgfaabnlr672@gmail.com
 name  优选机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://qxuig4.youxuan.wiki/api/v1/client/subscribe?token=0fe44df126b7c7b00bc5923412350c1c
-time  2025-01-03 08:27:59.632007+08:00
+sub_url  https://qxuig4.youxuan.wiki/api/v1/client/subscribe?token=0c6e54c199762b8040385a3213f49abc
+time  2025-01-03 08:49:25.657358+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [guobaotegong.me]
 name  果宝特攻
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mwvwgqx305@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ixxnlyeg274@gmail.com): 'NoneType' object is not subscriptable
 
 [12123.org]
 name  123云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hwvpgdy56@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(fkcaxmv674@gmail.com): 'NoneType' object is not subscriptable
 
 [zjyun.xyz]
 
@@ -50,7 +50,7 @@ type  v2board
 
 [end.hlyun.xyz]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kgnggxkuq520@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(nwwsyme101@gmail.com): 'NoneType' object is not subscriptable
 
 [sk.bilbil.pro]
 
@@ -58,7 +58,7 @@ type  v2board
 banned_domains  snapmail.cc
 name  瑞乐机场
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(nrwjgfu649@snapmail.cc)
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"nxyrjajht207@lplso.tmmad.com","success":"false"}'
 
 [node.rtc.ovh]
 
@@ -68,21 +68,21 @@ type  v2board
 
 [aikx.me]
 buy  pass
-email  imimeyyc711@gmail.com
+email  ybikgwfr992@gmail.com
 name  AiK-X
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://b.aikllc.tech/api/v1/client/subscribe?token=bb81c14492dcf3ef526801b66df0a7fa
-time  2025-01-03 08:27:59.581046+08:00
+sub_url  https://a.aikllc.tech/api/v1/client/subscribe?token=f23c6d664b38507f7a1a8fe967c4c98e
+time  2025-01-03 08:49:24.533000+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [a.aik88.top]
 buy  pass
-email  fmkeolup623@gmail.com
+email  dvrrdvzl195@gmail.com
 name  AiK-X
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://a.aikllc.tech/api/v1/client/subscribe?token=256a6885834e3750bfb54e7edde4f7cd
-time  2025-01-03 08:27:59.866855+08:00
+sub_url  https://a.aikllc.tech/api/v1/client/subscribe?token=344724fa63a5cb61d041c41bf8b7fbb4
+time  2025-01-03 08:49:31.536634+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -102,7 +102,7 @@ type  v2board
 
 [www.huojian222.com]
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rgqiwbjwx752@psnator.com): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(mbhjptjsp619@tmpmail.org): {'message': '邮箱后缀不处于白名单中'}
 
 [www.huojian443.com]
 
@@ -112,7 +112,7 @@ type  v2board
 
 [xmfwww.cc]
 api_host  cca.xmfwww.pro
-email  lobssmiwt597@gmail.com
+email  vwuxiwr48@gmail.com
 type  v2board
 更新订阅链接/续费续签失败  'NoneType' object is not subscriptable
 
@@ -125,7 +125,7 @@ buy  period=month_price&plan_id=19
 email  gmmvuig286@gmail.com
 name  漏网之鱼
 node_n  26
-sub_info  0B  1000G  2025-02-03 08:28:01+08:00  (剩余 1000G 30 days, 23:59:53.492341)
+sub_info  0B  1000G  2025-02-03 08:28:01+08:00  (剩余 1000G 30 days, 23:38:37.420841)
 sub_url  https://ch.owokkvsxks.store/api/v1/client/subscribe?token=d195fde73b5d2f09564d38eb2005d61a
 time  2025-01-03 08:28:02.241560+08:00
 type  v2board
@@ -133,7 +133,7 @@ type  v2board
 [o0o00o.eu.org]
 name  曲径通幽
 type  v2board
-更新订阅链接/续费续签失败  注册失败(gvumstxk443@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(oywjwtl376@gmail.com): 'NoneType' object is not subscriptable
 
 [白嫖机场.org]
 
@@ -144,7 +144,7 @@ type  v2board
 [www.un-airline.com]
 name  UN-Airline 联合航空
 type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(nbkdwtxv56@moakt.cc): {'ret': 0, 'msg': '小老弟还会发送post请求啊'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"hfmuxmvym491@wfes.site","success":"false"}'
 
 [dashboard.moku.pro]
 
@@ -153,7 +153,7 @@ type  sspanel
 [a123.buzz]
 name  A123.LA
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"kqdfhhi719@x866.cc","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(txogwttbl785@grr.la): {'message': '验证码有误'}
 
 [mkl.ikorg.cc]
 
@@ -164,31 +164,31 @@ type  v2board
 [t.me/+n6ydfD2mnodmMTJk]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(xugtkmy592@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(nhzlosuxw310@gmail.com): {'ok': True}
 
 [www.atomlink.net]
 name  AtomLink
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wemzhvaz22@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(zbfmjvah387@gmail.com): 'NoneType' object is not subscriptable
 
 [www.smcow.com]
 api_host  smcow.com
 buy  pass
-email  vjzhlhal653@gmail.com
+email  txhzufplz583@gmail.com
 name  美联云-高速、安全、无限可能，美联云VPN与你同行。
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.feiyuv.top/api/v1/client/subscribe?token=7ee020e2a6cb17ccc2e224da0285f4e8
-time  2025-01-03 08:28:06.163015+08:00
+sub_url  https://feiyuv.top/api/v1/client/subscribe?token=62699cd3cc6e2f31ef7c889313c810ae
+time  2025-01-03 08:51:29.121650+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [thecom.today]
 buy  pass
-email  qmlauag373@gmail.com
+email  bjotbmb364@gmail.com
 name  奶龙
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://thecom.today/api/v1/client/subscribe?token=a98b28c281456eeb9496f1816ef82b1e
-time  2025-01-03 08:28:00.729247+08:00
+sub_url  https://thecom.today/api/v1/client/subscribe?token=6ae49bb8fe9a43b6eac31520bf4033eb
+time  2025-01-03 08:51:24.289296+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -199,7 +199,7 @@ type  v2board
 [vpn.127414.xyz]
 name  127机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(gljpznw952@bareed.ws): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [柠萌宝.com]
 
@@ -210,7 +210,7 @@ type  v2board
 [a2.shidianban.top]
 name  十点半
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(cwnnpiam307@femailtor.com): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(yrjdbfptx431@guerrillamail.com): {'message': '邮箱后缀不处于白名单中'}
 
 [秒连云.com]
 
@@ -223,12 +223,12 @@ type  v2board
 [t.me/+vezY0x_01Bk3ZmY1]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(arkceusl241@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(iknxabkk776@gmail.com): {'ok': True}
 
 [lemshow.top]
 name  兰霄机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(brwmwgfq526@jkb.tmmad.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [dash.小米云.com]
 
@@ -241,7 +241,7 @@ type  v2board
 [lingche.icu]
 name  瓷煽机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ugrelipb312@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(arntoawn448@gmail.com): 'NoneType' object is not subscriptable
 
 [kei.one]
 
@@ -250,19 +250,19 @@ type  v2board
 [0be.net]
 name  快冲云-家宽/住宅/纯原IP,不限时不限设备,专业技术运维
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(fxnlhrh74@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(zlrftyioj154@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [1ck.org]
 name  快冲云-家宽/住宅/纯原IP,不限时不限设备,专业技术运维
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(wtgkyby593@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(svqouvlui771@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [dengta.buzz]
 
 [www.xbyun.live]
 name  小白云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qfakvhbs218@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(pwntjszy383@gmail.com): 'NoneType' object is not subscriptable
 
 [i.fei.best]
 
@@ -273,17 +273,17 @@ type  v2board
 [a.yousu.cc]
 name  优速互联
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(scvbsvu37@guerrillamail.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(odzgjensl997@guerrillamail.org): {'message': '验证码有误'}
 
 [b.yousu.cc]
 name  优速互联
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  发送邮箱验证码失败(isgxvei177@lista.cc): {'message': '验证码有误'}
 
 [c.yousu.cc]
 name  优速互联
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(rmzdocoir901@tmpmail.org): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(pacwijv26@smartnator.com): {'message': '验证码有误'}
 
 [cn.yousu.cc]
 
@@ -291,11 +291,11 @@ type  v2board
 
 [vyy.idsduf.com]
 buy  pass
-email  vkvjverzi490@gmail.com
+email  okdhzzg783@gmail.com
 name  ✈️维云云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://vyysub.euquw.cn/api/v1/client/subscribe?token=d9c376742e3ae90e71b9ab1c5d3200cc
-time  2025-01-03 08:28:08.055027+08:00
+sub_url  http://vyysub.euquw.cn/api/v1/client/subscribe?token=bf8cfadafd9e1dacd2b29d735d5abae0
+time  2025-01-03 08:49:35.708541+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -308,19 +308,19 @@ type  v2board
 [airport.kobee.top]
 name  Kobee机场😭🚁
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ausymwos456@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(uxrrxbeh165@gmail.com): 'NoneType' object is not subscriptable
 
 [kobee.metatai.xyz]
 name  Kobee机场😭🚁
 type  v2board
-更新订阅链接/续费续签失败  注册失败(iwogufmch995@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ccmtwgufr460@gmail.com): 'NoneType' object is not subscriptable
 
 [www.pkcn.xyz]
 
 [hjvip.cc]
 name  🚀 Eruca
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(hkuttfhaz270@moakt.cc): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(nctdwziul939@moakt.cc): {'message': '邮箱后缀不处于白名单中'}
 
 [nav.eruca.app]
 
@@ -346,51 +346,51 @@ type  v2board
 
 [app.legeth.cc]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(odcrwiy155@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(mxjnnjaqg970@gmail.com): 'NoneType' object is not subscriptable
 
 [ss.reiz.link]
 name  R.S.S
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(sywjpgmwi786@gmail.com): 未开放注册。
+更新订阅链接/续费续签失败  注册失败(neiajwn859@gmail.com): 未开放注册。
 
 [20288888.xyz]
 
 [1cool.us.kg]
 name  1CoolCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(snwoiqgf829@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(rnibywcy348@gmail.com): 'NoneType' object is not subscriptable
 
 [1coolcloud.de]
 name  1CoolCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vwktnogmx588@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(mlddgjqa871@gmail.com): 'NoneType' object is not subscriptable
 
 [20258888.xyz]
 name  1CoolCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ltruuuvc249@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(lbrqwjl146@gmail.com): 'NoneType' object is not subscriptable
 
 [20268888.xyz]
 name  1CoolCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uqnfepzf147@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(gqrsnskj1@gmail.com): 'NoneType' object is not subscriptable
 
 [20278888.xyz]
 name  1CoolCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wszmzncd677@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(hjvwgbz97@gmail.com): 'NoneType' object is not subscriptable
 
 [20298888.xyz]
 name  1CoolCloud
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bprnmptx846@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ftnkjxc428@gmail.com): 'NoneType' object is not subscriptable
 
 [andaofu.xyz]
 
 [rrgg.cc]
 name  热狗
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(bjngvxn479@mydefipet.live): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(hntalpag72@smartnator.com): {'message': '验证码有误'}
 
 [bailian.site]
 buy  pass
@@ -398,7 +398,7 @@ email  vdtzxgx264@gmail.com
 sub_url  https://sub.bailian.site/api/v1/client/subscribe?token=2dda338ad13d938ec9587c3eac3ac48a
 time  2025-01-03 08:28:07.535232+08:00
 type  v2board
-获取订阅失败  can only concatenate str (not "NoneType") to str
+更新旧订阅失败  can only concatenate str (not "NoneType") to str
 
 [longying.us.kg]
 
@@ -407,43 +407,43 @@ type  v2board
 [mb.wanwanyun.icu]
 name  碗碗云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kocsuvk728@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(habkkzrtp397@gmail.com): 'NoneType' object is not subscriptable
 
 [www.baoma.click]
 
 [superbiu.com]
 name  superbiu
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(vvragzmr390@grr.la): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(fpjykjrl967@smartnator.com): {'message': 'Too many requests, please try again later.'}
 
 [airport.lemonying.cfd]
 name  Sailor Moon机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rqcfrpkk129@femailtor.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(ymjaqatqp929@teml.net): 邮箱后缀不处于白名单中
 
 [my.pianyi.info]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nfbhicjs47@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xrsggjnqy789@gmail.com): 'NoneType' object is not subscriptable
 
 [jihuyun.icu]
 
 [xyz.noseisei.com]
-banned_domains  lplso.tmmad.com
+banned_domains  lplso.tmmad.com  965.tmmad.com
 name  noseisei
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(lgjhevsuf331@lplso.tmmad.com)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(esgzmzue756@965.tmmad.com)
 
 [abc.noseisei.com]
 banned_domains  moakt.cc
 name  noseisei
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(eaaeowjl330@moakt.cc)
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [zxc.noseisei.com]
-banned_domains  mydefipet.live
+banned_domains  mydefipet.live  guerrillamail.de
 name  noseisei
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(hlofmka226@mydefipet.live)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(nrrtssy272@guerrillamail.de)
 
 [5元机场.com]
 
@@ -452,17 +452,17 @@ type  v2board
 [51wukong.org]
 name  悟空
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(intvzytcj80@gmail.com): 请同意服务条款
+更新订阅链接/续费续签失败  注册失败(jcxiqrofw188@gmail.com): 请同意服务条款
 
 [wukongcn.org]
 name  悟空
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(yrarhmab603@gmail.com): 请同意服务条款
+更新订阅链接/续费续签失败  注册失败(ddsxfndor457@gmail.com): 请同意服务条款
 
 [heiwukong.fashion]
 name  悟空
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(gkshnfuy188@gmail.com): 请同意服务条款
+更新订阅链接/续费续签失败  注册失败(pndhklxq602@gmail.com): 请同意服务条款
 
 [heiwukong.live]
 
@@ -475,34 +475,34 @@ type  sspanel
 [one.huoqilin520.uk]
 name  火麒麟
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jygksxfzn202@jkd.tmmad.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(lclbavxwi606@linshiyou.com): 邮箱后缀不处于白名单中
 
 [hql.浙地珠宝.com]
 name  火麒麟
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"vkbairmrp204@444.faksei.shop","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(bgekbfimm390@guerrillamail.biz): 邮箱后缀不处于白名单中
 
 [www.nove.cc]
 
 [momojiasu.com]
 error  <string>:2 Unexpected "f" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(gybrwxd685@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "momojiasu.com",cType: \'managed\',cRay: \'8fbede0aa958e118\',cH: \'ewYmhW4hPEbYDm4iEoQvmFSMzjSJ2DxsxtCv9u0ZdA4-1735864091-1.2.1.1-YGcp74gTvhPMFDCu2JMEn9Y4pFIvJtFu3TD_evzF.4eLQGdSCSqL2o_ENYWSEwOj\',cUPMDTk: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_tk=d1mT6TIceqr4G2UJC8Y1Gwg6RqKR3D1Qr5kXPCYYppo-1735864091-1.0.1.1-TO6FMNCzgZ7mO.I3cTLjj8g4syrhYJMlRVRqlaz89qI",cFPWv: \'b\',cITimeS: \'1735864091\',cTTimeMs: \'1000\',cMTimeMs: \'390000\',cTplC: 0,cTplV: 5,cTplB: \'cf\',cK: "",fa: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_f_tk=d1mT6TIceqr4G2UJC8Y1Gwg6RqKR3D1Qr5kXPCYYppo-1735864091-1.0.1.1-TO6FMNCzgZ7mO.I3cTLjj8g4syrhYJMlRVRqlaz89qI",md: ".jnyzf.GgnYtAXDZ3MOgIWANaRcvzPmG6bEHG7tFsnM-1735864091-1.2.1.1-JAzSUDCGeCBv35BiwGQTigLgnXluP8_HLK0fO2kk13Fd9QhiEPOGEmeFN508aAqiKm1rkEZuebOmjP_vBv6IgZ8KeQ4Hng.D1QBkR8G5GnNOyvNRIlB6GpJCCKsWo72xN.m27NJiFXYhLHa09PQLZPBvmeRa5jERf2n140tia12HxED_zs2g7ikRflzXDY_28Rkjeg7rpj26zZVunl_cHgfxDWf6RccEHotBsfK4Hy0RgO4m4Q5824d2k.WgZwAa7DQtahXqhnzTkKzZn.5zLz1dALuiWp4KmmQJKZniCBbZtCg5w_XZEliCuTJa.jKufg3_Kr6eY8I__pulGj88jltI56il8ywAAh6H814rP40.UeQQdOY0vJWkAf1T4igEO9koSedSGsFjRDIpvRYohxM7VVumrziF54zuyTqV.fAcyaOzgYlrzfKZ6hadYJ7oza0CEA_dXdOYL7bhgsXcEUGXCM6CwzG3aNUyk7crF7blakqJChqVXgbyIG8axdbc5IQKX5J8wh6tb6r.mLIgp028xHm68tqXGo2aH1dus6sGIzE8sWlZabf7Wgs7p18Vw8lFcppwrtUWP0HzgZSAbp2nfBGwnZU2JkMODAcm3efRw3CpiqyT87x_u7x7Ce6Yi66XZOApK3Y2MNui8t2KKc3HaM6XO_xz8M09FTPUiMuZECQdnWZS4uZxDuk4ypzquN_V89_K9iipgcGPkfooVRuCFwh2AUq7WC4E3ZmgH70tTPHwdDqA.4GNf2yUJYWMOqStCOqtH9KBdxBgdsBgls4wlIAPaGFdjPrsCjNLxEWtx0LpSXmJzhKFQ1b5yP.VgCnjFIPunKwbuAChdv_1fmvsXoGAmzhV0dZcl1sgEcqInoEGLVhN.ctn6DHF4pK0_vgH.JooFnKjoDFe0P1EJFPz48nqvRVT14zmsq3Br9wwc0xXUgyeeyeSRro_sfZX7k4e0jcIOPhlzKxCm7j5LgV_9h2q265uOkT7cKDfwexhJ2FBD.OQin1DK7fJyKGroeXLkZ07NtYZDE8sz2kNwvzOuqR_pVVXd1Mk5zVhol..8KfOw2O1HFsqx9wXhsUS8ya1wMCHh8VPQ2aHIXk24MSVGmUFLGd90GP3uGE6zYbyiMl9JZvXqx_bOYSzl7rO5VTVpBCEK4MMKtMDqjSwMUZKs49G.gKOTmSP0W6M_2g_pCV5CZoe5IG8On_wN0d7m4WVlemTFL9yZLQbt9swyMEpj9KIgQp0xqpv1788g2WqX_7cHIn4I1Gxbd8Iwc_yNFiSNnfbuppFQ510bxXlB26nSZqOk_XPvT763js9hScXpjuMA5VuZWCGSeeSPhHOAaswsUOjayAucydWPWd8NXSS_wss_JVeD7LE45jd1btEqdikzRCW9eacwY6IWZ0lWQGg0f6mCUWmOIFxHhDy37o98jT.hiwY2aF3pO16IuGDzICjQKB1CUVh103ITUM3CtpYBGU2gsxVDGgyitkAMRa3vrrlwLp3A3E62k7yC.De12cXy7wy9EjtDrNOR.GsI1s6nXSRYnuhypPJDWV6j0RS49hQKs1rq4oUzlM2QBckUfBdHwH8FNcWDRm1QG4.AYR7fnNLJUXlfJzPNO1EiDdLGceL473NOybpkIHpiPPHlmkBfBjxsY390E3EYMU8A9I8en1RK8p0JIgLMT3OKNCTROrcWiucHbvPBBNuf3oD1z95wiw7CVm2C11N7bKxsjcNGB5S9Czb_8xgmeANGMvHt2rXiQgNJJos64M8gyRyK6hcPVpV.UhWJCa24BtWg0.SQg89ZVzlQtUV8jN5JrnTjuBd96lmHb9FKqISk9.OBfHv7_wZXODfKsgcx74rttpO0msvjUcS3Z7LHFnWeyCZcmFI8D95UIxRw4a.K9auZlG5gi2ofCU6uI8FpZ0JEUjagZmIcMvZqBPSEFMSfTgDm1NEzzdDGCOkI.03hY83poTuZZXpbwoblDO1OyTzOPqNs9FwOnbn.ChR7ZdkbnKCH43nHwbb0oJBPqS6QWA9iejQuC5Jjmb5O4GamkQGJqf5UYZNC_z9JjU0n97t.N_OkQhXUxwwKSMTHJkSi0SqiRPK5hAukIxSvwwIbiKakHAYArOAR0cHFo_8ADajckm9qXAXiydpoGRl4vQrkdk03AlObmZWHekE44vxgvRJjc3Q.49pUCj01ZZ_fZJ5PtG1kaVecgwpaqNZJQBcpF7C9QfGwTNiLZtWHOw2Dwha1EsAsD59T.PgGy3XZPbfs_va01I69BoKUWFqT5qpn0vpC2.Yc_EuGoZlcJViT5gjM1JjGMoOGU5Luj8LA4gOB_Qs9ME8FEkkCWCbTrkLMuM6k6jodrGkaAToU8uLgn4U5ySf7X0Pt9FHufN2v7gFodq98vqFBEu0KjvyaX.II997Ztw506flX__by.YVJn1vqk0EalDLCFooYm0XouSA.r8jwI24sGcprdo3DRAnCzt3exlrLNzYpLMzEJh8N_vmPYiEYHmQVnoF2B9u2LmM_ox7cnia36k1A5cCSXW3Z6lGfDnbbHfN4BYxWRIAKRbNu_aGxD_EY5.mh59T3gMNonCnfWCsT7x_pf6w7pCsoDb7n4aJ1MvK571oN02X1UhCM5s542Zo4pMrxFSzHvaaNv1XgAKsnsfJTqgQoIGlUOo",mdrd: "W9pKQd97mIyRlK8y0lYK1N9cRNr8HpjjKRVP0ci7j8A-1735864091-1.2.1.1-OhUQM8gpw246Db9w.UoZM34vgH9hxdBnp6WXdY3ubV5r7CWrhG_bgdta4plHyT_LlnwOuwGm90LULCHn4TjqGTJj9pK2Tre7tiWMJ7qxme82G34QoDwoZMxJHxaPvuOyMC9N8NuR4n5FmioBfwNyZSclk5DCShqgZX9qMzcRXIitYFYWJrJmMt0tRoinNOBaN3ahcp8F69.GASydFKyZe2PQMiH3vFt0d313S3KBoirIEvTp1rM9EWNq7ZPtYhXMxwFCglD_gH_TUCMhIMXhz98o7iaqnHi4CuvAWawcV9Iogz6Vmt43AxdemU5_CrMIVPJ3RWSCZ38rFYYXk.3ZmJy5QugyowEUoTkMkkYAVmOwhPe0BXAwJjnC9DrpqGBbuUo6HPOfyOJzShRVE6fY5eJ6E1xoOpcRnDguXr1jDOdeAmPsgBwSZBU4Hv2yG3ok5.8K4NaV601YMBAZVVAP48OVbyZuxPMJ9Ocb1bETcfWCZLf6gs3VYhRBRsf1nKRHbjMt3CsKtPYtrvBJ85paI.bJgn2teIt6RB575RLDttojb7fmJi9YZHs42WxwKNMVEev_yB.0p2GuESjdOjRddzSbBmPG3jX2tVn6yDha0ywvb5b4w005SdymR0oOEISjC3Gk1PCS3l8ycHySbQU5VG36i59teB2Xh05HvqGDmOmFk.enuC8GTLK9VOu3rdSWju_LtPgA.htH2H.6r1gmY5_yIT8DtRecyrZWTsdkbS0AZctjjBU4lv7SOjYCAdnzP.vjn4b2PIkgvAQyHcM2BNgj2jJ.7mu5VuA5hithtc3xrmLP0z2jKwhBKrY.nfrvu66_N.JHlOhX1BHEOGhfVFF41jwdvJCI_pm4_juSVETHueXC2VZ8IzQoODQET5MrMiF.ZrqzGz.YAkDm_ndP60soG1DS5iAgBlF.17ItnZHKrr6VkuUmhTzQ_7UvUTw4YaqTHOV3YRaQAlAopZHA96T4XgJU9RhV8sGyiyBVqv35RqHxCE.F0BvyIqaG9uLP8FNhX7GbTnY5leRRDT1loSU6WjxaHo_eOgfUqRN_FtY060rLnmQz7fUTWk0vPk9Oz8_mfx.c_YJiUo2RDMk00GJ_magm0zd.840X5NFS.1UtVju3IC6maF.lC.SR.ZV3nfWpSpmnBQlnZS1StUYfiS3BQQH6Kt0gY6GApopmQKJBusXKNeoX5gRA19U042dBweoMVcl1rcwYk84wwvE6ZLVh.uYxAFRBt7RIRPrOn9LGKFiR93FnfZ8v4aGv4_AeRgW02ampzztdBz7Nl4.ElC6sLeAp28YqBvTicGMtVJ.fIOcgpLpBiYeJMnO1fiKll4UBcoG_5jpMiFfbCtw7_j1aHtyqMrMenJZpN96BKCdZWQKIFe6sdzUEwXxEBB5uNwnQ1HzpdHgbj9O9Wec6R9NvDsckRj9khheJ7RRGsgnVEB5kyVQCi1oceFuDQLCKJdAp9O7mGL6RnVgVIVOp4_6TkIf_Ga0beNByNSk_oyfdIhYH80gNbreJCxLj6JQ65.r0ZlPMp72mRy0ykXJb1JxETIAmnexRptkc_FdD_nTtyzBZcvZs1GIK9EKBarC4AfoFxABYTrXp_MKIzFO7bgQFUXHWT8cE75OCY9T74JlRzltqEYMmbcOuJ3K7kWuJ5.IGGQyM4mcQwSpZGli_WKHjdP028BsXZ9.nNRa5ipxou2M48PaghcIzcdP.WDbv6NS_MaOCzOBYpc3zpI45MW1NZpez7S1n_RJJMxree1yhitfrpDXKMwCkDgKL7Yu4mC6ZWImdg_HFvo9PtUy8zqco_1O2iXN7PhPalcbQJqe5ohihu4L3aMJImC80qSeBHVa8xk7JJbkNTZPAUF3Q2tVeRZeNVAn3Ksd2XpKTCN.exhcMwMeY7m6l0ARjpyMrHGy0cwVXpS8nwV6vuFdWKw45v03UXakrt9_cSUM8ZLgZbIQLmTvGhRakqp.trRWSM3091eIeCcsNzl2TzgH2K34EhJTWwwbBveg2chHlUlh8esQlss4Xhukfm0uPf0jwt_opAALx2JTYSbwJOuw.nxJ9b_RBk2DR6jsYyv5Rakwef0._XF5VV6Zy71FFJ4g6FbSKCELfKlCG6V00x83F7eTNMvztp5hn75pa.Ip8F3akLM7EW_NARVKenbVLC8XV.mEysLzCyoxEV15S0JtZirqQWT19OUsmJ1cw3O8MvOpUFRzh_IgZcNC8nxDO9ljWExezzirfuXmshPTvoKSdFebpfp1XDkzb8OrabZeCAMA6EE.8UeF.w9U1dhXz7ZRABpbG9lBpTyiNHZDbMehZAhjJu.w5NJSKOzrMpKtr5qpj1H1vcyMmxMbCa78Gc40tHwlCPbbd9n2svMSvc0Dy_1nOmcLKBVvJ4cKMCD.PfKg"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8fbede0aa958e118\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_rt_tk=d1mT6TIceqr4G2UJC8Y1Gwg6RqKR3D1Qr5kXPCYYppo-1735864091-1.0.1.1-TO6FMNCzgZ7mO.I3cTLjj8g4syrhYJMlRVRqlaz89qI" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
+更新订阅链接/续费续签失败  注册失败(lxxvwou207@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "momojiasu.com",cType: \'managed\',cRay: \'8fbefd3e39b63b2c\',cH: \'rwB2TbOOV2.UhZT02g3uB1rP6RXe1PWP_ugoFbXF6zY-1735865369-1.2.1.1-_4I1u1YMK_3dr0V5FZ1zhPbJQfwr71dNNGUR355XI.S6qQJKUrqWzoFebW7Jd_fY\',cUPMDTk: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_tk=cbCV9tqOMm1P8T5.gcqaOueHOXRCxHTLyygBjSeZxBo-1735865369-1.0.1.1-sdHd6AfjBiGelmITd7Ku5d_dlVaPQ6VwzpXoS93V3XU",cFPWv: \'b\',cITimeS: \'1735865369\',cTTimeMs: \'1000\',cMTimeMs: \'390000\',cTplC: 0,cTplV: 5,cTplB: \'cf\',cK: "",fa: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_f_tk=cbCV9tqOMm1P8T5.gcqaOueHOXRCxHTLyygBjSeZxBo-1735865369-1.0.1.1-sdHd6AfjBiGelmITd7Ku5d_dlVaPQ6VwzpXoS93V3XU",md: "TqcdgFFdVHOUpPzdZmSuW_ZBxvERiYHdCVZIJ2SXlvM-1735865369-1.2.1.1-suquySIXPZ6VhC5oFfTzo54v1a.SPEdJSzs3n2Z1H83k8gLwGHmWYXbEOUPyQ4xGzqZ18gXVgPL6Ph0Z_7c1H9VQU_nwsMuOOYPoPLlNztAHkWT1GzdIWyYuDJpmyVna_73TlVkMnh9BprDr5oA5q.byLt0Q_kpv5FEmwDNIx8_vIOsQPNcaU2qjigAlMIfgflrUKa3Op88GB5dF8yIv4auoiVGsoRyNdITPNHQhOzawOgSwzfdHHBSTTWMEn0kuXFMWQukODKZCwAn69Tm8wzdjCzb12C31x00TaY1G_.mpnhq0u_0fC9ooJqFXwZK8bo9DYvuzbvOE96D5aPnfDKlbs3niOD9QwybTyYRS3gL84G_400czNJ.G7rUzTOF4v3W3jFj.34YHOYEateioJdVjQeLflaTWcjFRZ0r2LAYtC4PTfdj11.BD0qfiEThQ8COuHlpLh4yVJLzWxVl8jMAQeZXHwxqZRNFNoUQOEZBLMJFSMLZKqnGxKfhMdQPUv9Mwgz0xWjRwgotEAIXJGdZ39hTxxhibK.6s3p0SETTemk4tM2R7LYGQTQYcFNRUrzDOHGMA4B1PvMGfbYxrIBBntS6nGZYNoFHGlOmQixCpWgjtWOzm_.NM.InUOADL5FcMBoVZbRhypJJq7WtNw62t0En684ZKj73gwEOlHW_VLRTKXNWC0iI5jG_9nYldRfcgZlQsQ4PbkwoOJUNlRQzJZd.T75suQtsbV9mZFV0ZYcArZMnB65SBkv_fAtV57vbT.zF8Ks0mWcxG4DAD9FwFO_OoLUzDK5ngJ9nhQdhnOVo8YKUMaUEN1FOo.uKxmBGeS7ndjbBSpPe53mBV3NtVMJMuzWU8ALOznws_pqmQykGgRmozLXF0I2yQay19ngPq9SMD8CmfeGahMwIdXE32nwUKVHKnldR43kqBxm8uJ7ZpfiSZSQP3tvvtSxxe49hV8axSwOxN8qVAoM888qroxkoodX5tPZxZxT78vLcjDMP_XKoaHnXB0OBy4Rrbz2.tAeADqOQt8f23noJMdyoIgRmi38TGiq61R22S19OsbGXuKF4ZRczEG4WvK.yOOf1M88SFB8qmngy7Qr1HplLh0wS_9VkJ9B550s.MLu7d7gC0w4p4UeQjugan54UCcp1rxGSsbtWyBePO.pGikUrDL5ULeW2osyctIuOTp.p5Pt4eePUK2ybrlTfyAWMoavwSkBzuq471r2Ky9Unm9HdS26gugWjzKV.IWSafxESSRqn0nFjM1o6zH3gdx_rLuXjJAAstU4nMXXyUxBWKHRaKDC47HQsW00.atqqBCbokI4AOsBiNFym7N6kWGHtG9dEjqA.dPfosU9F1I2blUaSrpAnLJ_slK6quUuEvKwj70JyE4SU53mtQ9wi.kWC18xg._YQeAubXm8ts6vUJ9boTbOfaRuBRtm3AhTHFJVFBB5oZ1pDWZvSRgxOWQRZBwZHTJ4YWpxcHDrydOq1TOvATWAPBPUi8aRu4sG7qSGBFgRpaRIeishtIkzrpU_LHwBHT6nQmiNY42qftq1P9KwUENUnFKEV_DWhEKSPhyVGtV2uABrZkO2hneA3pLBh824D_ogJA7MZj8KizuRu6xkA_ZyPpqf84imSuOUxo66YqQax.AvmdluyPEIISJvItwsz7e.IEL.c2BlXhuqUxn5mw_M7UfarkpvK0q6_dXSdWlt5ZBEQgBj9n3_TMgUlCrzeT3Ap8Cj_yql1MD.M9TEgRK_FLNBsGQaOv7vNyKslvG0ug66_5xJsQgHuYypCRk8nCX2XLayqJlMZveOjfDCxquos1wnX3Njo54148_rcp_qqU7l4jQSpE6I5fpc.4Wz5PJh6q9rHJDtIZXoTaC5bf7lAP4uwvnk9qdO9g_INU.22i70rfAiAgL6oANX0VIBPy2iSpiHdqpgW_Ktp4UzYZtNvoGCYuPyXayFdJNCxiwUq1.6Kq9IDnTVVWiOyD5wbOZD6TpBoxbI3qfGKr81mF0K2ROT7bKcBBAtUQo8YMKWhUw94aefaPx7cepqoG7.djHVD4eNe9se5doXncmNS.NWqP.rE0XoiOaseLw9ju5rTFWX_DxoBYRbHQPPx8fsS3RVt4Q.t3EMAeAT1cLCZMilkO61wL81d9d8MLkA7yIq64_Qm0ZE9mZrt1ZhfeCnZQF.O.GUmaBWikdQIbwum401z5XjbgLOvBOw.nQx_sbD53iYW2UNLgrG9NPxPglgmQ8Koazdn.xPjsyxlirsGH8ZVMUQQ34UwtGvf9K5zRIRu3InKTwEEuUuSJORkBKVGDTkFuv_DRHZ.ymzrCx01cQscNFSDmQ6tm9cdD6JG.UeQfm6xOwERRNMskXjYm0JxxwdhBxsLbuAvh4dR3NYtrKjUGl0K2xXQUK6XBKCwhplrxS9TZWRrZZ5JbwtI_Zx1AMOSQl7fuvwaXw1Nyl18vB2qmqc98yOldsvksIUqsmd9K14pVI1we.HeaSy5Qh5zgAWdaw0KgJx6g9plzcA4PeKpp_8YM.j_o8x4XRxXle41cAZF41U.HSgorRa_NomRumtwsUvRygAehQjPZa_Am4pVnHeJEaK5aMOW.jvM7uIlmC_8sl7_td0vL4_QCV6K3HHPzvSXXVnpfTNOH0xQUe6KiY_ezsP_h7sjXmbs",mdrd: "11vWovfzkjj2K6tHK_qQIHV9s5Wz3MfvGm9NSV.xzq0-1735865369-1.2.1.1-otnhPqkLF6kQZ5lhUeExJtDYuVCTZcwhliyufTMvX4s8aNCZ6lhjZwmcKd3j9ysJle1Ft4jDbHMiGMQS3zS9gJL.irkKHl4FLivtDZw7NDujEeyX6mYzQMHsci2dvcMnYdyApqBoJsLYGw1XIMXBVn_fg_pK.3Eba.zd26r2sqNKOJ4Ga_rt9nMH3gFK9FK5LElN7UAKkMr6a2ajsZmo11Sd7pHLv8xa3Y8NFvztSmG1QeIv1DW.2Ige7zq61lIYFTNsIIvRzUo2sOpI0rgJmtma_WRZuoI037azHPBq8SKBhIy81wRdPljlw3fJViNHGvpkGad3XSmU99EVVypls8Md5YN4xuY6LJOja1jBxD4mA1B2tAej.3_hTmwea.DJfnVDhg0tHcpbSF.g9CcHtbnh6GB8r.RXtNnzkfEF2bd0CiBSQRLbTkcH8G7fC6rODkPLegWrDaCp6YNYBmrhx9x_S13pgvWbLjWh4sLbfQcCpgDOryYec1wm_403o86l.Rc_u10FizpoaQ_YSfYM4X6dvny89GpWIW3m5bHeRn1dYyPuGRN5NcO_1EjXRPtyEJGCoaZ6g.F0bkkCZsDeoOBEjckb1WukaEWxX5Fki.UPYdl1ooe17dgJ7wCyckNbubujDND94g6a.mIgdE.K3VATvuZ2QNXkOPHF2xUIR3019Nt.UMDmdDPGWXdoQZ2BzqvWVhLcWotg8d466QiQuM1DVYP19QeiNVSNoAkzozUIrzIaYLHZyEQn.IhBpt3KQc4wfEutQHe3h7ux5pV3einiYC.Zr7461qWydZobKB_9Gh_GwDt6R73q4zgWEAfiDWfHYAv12cWu6Ha1l.j8BTIn7pFRfRTqW0EJKzVNKeZTqE43JXKDApspOsuyUbqNFbzZdFupErHCEmzBT3XDgRO.ruu2kkVQQ20OrIF1LCs5tagpd7_xnMxDIino0JhoCGq4yYDeGdF2hHgkL9ECx4Hlv9y1GglJAb1eLC9YJLx46cXr1zYU7Betm09y2Z6crrN3LO9zesIk6laX2v.6tZ1pXQHvHGsWi51BG3En1nLSPWTTIdxNstr69mfKUa87muX14tKihI9QdF4gNqLmamPL5QzNAxRnXq.t4hXNQ_notcmCof6piJlXl9vJuX5JhxoQJVhulcIFRQVPPNonNwYBmGzdzvLJJzUDTggnBYBARE.CPMB7ntXWbszo5JCL_BOsa.GWEXIyBNnFTYnlLxvfqraHzi9.vKEdLARbVH5Cc9KCB2fdoW1WuaafhnJRekScIe5HqrvlqZm_FRJVSFUdRTREv5lFIvM0wXSLHJ4cUQl4DJ.5vLBRNYTYGPv5gijHjO1fQ0EVyrcHyu9y0zroB1kJSAcq.AuHf8IaOy3ZplciPPmqS6GURnh6U21zLnvh_hED6XMU4EfUoakAM14nGLnUO3KsOrGGv3z_n1rQNz72QDpCER9.f0DYZjkAAwglzvfYjNWehsrBPYCKmKyJECf4nzbyi7xB7DQkGhU0wUObUUBo.ik0wDhd6LfGyDHr5y7Wd6FpdCpkbWZsgTDUIndq6qGL6.N2MygH9GU53cNWG9dxJLelavG02p85obmRvfp.dbYCBbMlLdencVyZuEARUBNiRLR4VrRP4muGh4FWcnrPY0xNCVlZU1axRHuZCKFHWJ5vntLA1_qAo1iJ_bhDvI0IzpRVPCPFcXCAbgNZgr314sVzqWqE7Kq_sXnthLWzZbrVDfY_ReIuGyEBGGO5i.aU8I5sDH8psnIRiB7z8STSZlsEArG5645KKY46qKCw3_Pf_k6tSi7KlJKGm_1vQ1ET5HHCOSfRfUL59kKGjDNkzvrSLHgG6BhXPyduPuxUFSb5LFeq5tAQghkyYutPshGS7p1e7PL6tQLtENmN3Sy82uc4e8iQRHFLLCvYzdGcNDovo7XsL10MK41FsbYzl1xW9j2FzFCNhqYQOIMRLE11yWFZUoi_c_GiDf.G04xd7xgdn6vgBXYPvJHLoRXsNez_yfVx1.9whR3e8satdHy5L1rJwwl8DFwoxMFSe1qsxdwlLvwXHacaOiwa0ZawNUe4MNGhZwZK4r3zO1eGjI3NGK1Hhmon6jO41wvVieDEb1CPHYpN2q3snBEEC9.CqzewLIyj2hVc_woAku1Mxnde_6SQr3wwjMGl0iH0BzKCmhKv9a6s.9.HgK1jwf5_JjOB9yWwMAb4BCaADw3.PfHfIsMIiiD43Uwvh9IZ_t6nQtcv9FiZk2Jxx6vOhUQ24UTUs9tpRwCZCS9fAR9mSMFu_7M59P60a029S30IuhPpHNNGydLMBJfZryuNRNYt6mLiwlkZAyYIFzd3CvxH6ajOMgVCr9y4p8Qt0qs3BrNZUfFPxctunthKrfdQZnusb3EiTVG87za1U2PfiIZ5LH0hZggXSt8QuDTe"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8fbefd3e39b63b2c\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_rt_tk=cbCV9tqOMm1P8T5.gcqaOueHOXRCxHTLyygBjSeZxBo-1735865369-1.0.1.1-sdHd6AfjBiGelmITd7Ku5d_dlVaPQ6VwzpXoS93V3XU" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
 
 [passwall.link]
 name  PassWall
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mavcgft174@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(euctnkcua243@gmail.com): 'NoneType' object is not subscriptable
 
 [一元翻墙.xyz]
 name  一元翻墙
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(spqhwml378@moakt.co): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"pphozzgi472@lplso.tmmad.com","success":"false"}'
 
 [fqhy.xyz]
-name  番茄花园 −	 安全 • 稳定 • 高速
+name  番茄花园 −
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"zygueta230@mxl001.win","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(wayenbw769@444.cvrmpr.shop): {'ret': 0, 'msg': '该邮箱的服务商未在允许注册的范围内，请更换为主流的服务商'}
 
 [rufeicloud.com]
 
@@ -511,7 +511,7 @@ type  sspanel
 [t.stga.cn]
 auth_path  user
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(pqdppmgz516@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(xpuooxmge125@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [www.dafeiji.one]
 
@@ -520,12 +520,12 @@ type  sspanel
 [www.hj521.top]
 name  火箭云
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  发送邮箱验证码失败(nltcjfuob487@disbox.net): {'message': '验证码有误'}
 
 [www.hj522.top]
 name  火箭云
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(jvzhllaqp815@moakt.co): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [hdcloud.xyz]
 
@@ -534,7 +534,7 @@ type  v2board
 [网上邻居.icu]
 name  网上邻居
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"tnbpccbai959@jkb.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(whjjknp393@tmpmail.net): {'message': '验证码有误'}
 
 [dogssr.com]
 
@@ -545,19 +545,19 @@ type  v2board
 [zouma.guanhua.xyz]
 name  不知名机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dnopggy62@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>405: Method Not Allowed</title><meta name="next-head-count" content="3"/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js"></script><script src="/_next/static/chunks/webpack-2e0317e5a4988bdd.js" defer=""></script><script src="/_next/static/chunks/framework-8e0e0f4a6b83a956.js" defer=""></script><script src="/_next/static/chunks/main-0d42bdacdc7a40d0.js" defer=""></script><script src="/_next/static/chunks/pages/_app-f870474a17b7f2fd.js" defer=""></script><script src="/_next/static/chunks/pages/_error-c66a4e8afc46f17b.js" defer=""></script><script src="/_next/static/svPddRchR5bhpMAV4u38_/_buildManifest.js" defer=""></script><script src="/_next/static/svPddRchR5bhpMAV4u38_/_ssgManifest.js" defer=""></script></head><body><div id="__next"><div style="font-family:system-ui,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center"><div style="line-height:48px"><style>body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}</style><h1 class="next-error-h1" style="display:inline-block;margin:0 20px 0 0;padding-right:23px;font-size:24px;font-weight:500;vertical-align:top">405</h1><div style="display:inline-block"><h2 style="font-size:14px;font-weight:400;line-height:28px">Method Not Allowed<!-- -->.</h2></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"statusCode":405}},"page":"/_error","query":{},"buildId":"svPddRchR5bhpMAV4u38_","isFallback":false,"isExperimentalCompile":false,"gip":true,"scriptLoader":[]}</script></body></html>')
+更新订阅链接/续费续签失败  注册失败(wnnlqjma199@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>405: Method Not Allowed</title><meta name="next-head-count" content="3"/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js"></script><script src="/_next/static/chunks/webpack-2e0317e5a4988bdd.js" defer=""></script><script src="/_next/static/chunks/framework-8e0e0f4a6b83a956.js" defer=""></script><script src="/_next/static/chunks/main-0d42bdacdc7a40d0.js" defer=""></script><script src="/_next/static/chunks/pages/_app-f870474a17b7f2fd.js" defer=""></script><script src="/_next/static/chunks/pages/_error-c66a4e8afc46f17b.js" defer=""></script><script src="/_next/static/svPddRchR5bhpMAV4u38_/_buildManifest.js" defer=""></script><script src="/_next/static/svPddRchR5bhpMAV4u38_/_ssgManifest.js" defer=""></script></head><body><div id="__next"><div style="font-family:system-ui,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;;height:100vh;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center"><div style="line-height:48px"><style>body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}</style><h1 class="next-error-h1" style="display:inline-block;margin:0 20px 0 0;padding-right:23px;font-size:24px;font-weight:500;vertical-align:top">405</h1><div style="display:inline-block"><h2 style="font-size:14px;font-weight:400;line-height:28px">Method Not Allowed<!-- -->.</h2></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"statusCode":405}},"page":"/_error","query":{},"buildId":"svPddRchR5bhpMAV4u38_","isFallback":false,"isExperimentalCompile":false,"gip":true,"scriptLoader":[]}</script></body></html>')
 
 [t.me/+DEjWDc0vVtw3Yzk5]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ahfabagdr564@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(jeajtucv471@gmail.com): {'ok': True}
 
 [veseai.com]
 
 [t.me/+Z11PJ7UGv1UyZDc1]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(dwndykt699@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(wnlvbofgo857@gmail.com): {'ok': True}
 
 [jiasu.la]
 
@@ -568,60 +568,60 @@ type  sspanel
 [mqh.584321.xyz]
 name  龙中云梦
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hkvplkvta233@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(xggsdoiu403@gmail.com): 'NoneType' object is not subscriptable
 
 [tuanzi.site]
 
 [littlerocket.cc]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(tfobfdj543@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(upkluro680@gmail.com): 'NoneType' object is not subscriptable
 
 [kaolacloud.site]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xcqhngg64@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(pfoelfj888@gmail.com): 'NoneType' object is not subscriptable
 
 [jileiyun.top]
 
 [milus.one]
 
 [surfduck.co]
-banned_domains  guerrillamail.biz
+banned_domains  guerrillamail.biz  sharklasers.com
 name  surfduck
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(eqgwxpyry506@guerrillamail.biz)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(lkqqnrhv517@sharklasers.com)
 
 [lucc.surfduck.link]
-banned_domains  moakt.cc
+banned_domains  moakt.cc  wfes.site
 name  surfduck
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(pkokaxkjp633@moakt.cc)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(lstvbhx836@wfes.site)
 
 [t.me/+jnmvQTH6hugyYTFk]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cnzhlyft610@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(wbztlybdn814@gmail.com): {'ok': True}
 
 [cy.z49.top]
 
 [dash.minizz.online]
 name  九毛九
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ljdulia607@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(csbvkjgyr107@gmail.com): 'NoneType' object is not subscriptable
 
 [fanqiang88.top]
 name  翻墙吧
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(omukeqi172@sharklasers.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(cwiphbw994@x866.cc): {'message': '验证码有误'}
 
 [语.club]
 name  语云加速
 type  v2board
-更新订阅链接/续费续签失败  注册失败(oittyxrmz733@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(orcynupz107@gmail.com): 'NoneType' object is not subscriptable
 
 [t.me/+29V5f6yPPy84NzFk]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ifkocdt301@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(wvxjarz623@gmail.com): {'ok': True}
 
 [1.jjyun.xyz]
 
@@ -632,20 +632,20 @@ type  sspanel
 [t.me/+l11ih8PwqyQ4M2Qy]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(sqcsxxdiu819@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(fvptvyigk262@gmail.com): {'ok': True}
 
 [nertron.net]
 api_host  www.nertron.net
 name  Nertron Network
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ulcegneok271@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(stqdwnz941@gmail.com): 'NoneType' object is not subscriptable
 
 [nertron.com]
 
 [cdnv2b.minecft.com]
 name  H2SO4 V7.1
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zdatbqvo335@disbox.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(zkowjadox208@spam4.me): 邮箱后缀不处于白名单中
 
 [kvpn.cc]
 
@@ -654,42 +654,42 @@ type  v2board
 [yunlu.vip]
 name  云路
 type  v2board
-更新订阅链接/续费续签失败  注册失败(orksiqmt606@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(hcxicxw502@gmail.com): 'NoneType' object is not subscriptable
 
 [tianmaojichang.us.kg]
 
 [vvcloud.us.kg]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rhytcxq826@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(aaonpkmei78@gmail.com): 'NoneType' object is not subscriptable
 
 [user.vcsite02.com]
 
 [new.极风.com]
 name  极风网络
 type  v2board
-更新订阅链接/续费续签失败  注册失败(hrzvqcs480@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(rmrmrzn817@gmail.com): 'NoneType' object is not subscriptable
 
 [nuwaa.rest]
 
 [ysjc.us.kg]
 name  影视云机场🚀
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xaccpoxd777@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(pkreosgml826@gmail.com): 'NoneType' object is not subscriptable
 
 [连接vpn.com]
 name  连接VPN
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(hvjbuigv805@444.vxqcp.shop): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(xgydmap706@tmpbox.net): {'message': '验证码有误'}
 
 [kaikaixinxin.me]
 name  开开心心大机场✈️
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rhdtfcgn627@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ndhojzunt947@gmail.com): 'NoneType' object is not subscriptable
 
 [nexx.us.kg]
 name  NEX
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(anidkyz941@tmpbox.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(moqwmlbpt146@femailtor.com): {'message': '验证码有误'}
 
 [平凡机场.com]
 
@@ -704,12 +704,12 @@ type  v2board
 email_domain  暂停注册
 name  网速猫
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vckomraur234@暂停注册): Email format is incorrect
+更新订阅链接/续费续签失败  注册失败(mwjybpr77@暂停注册): 邮箱格式不正确
 
 [kn.kngtxy.top]
 name  柯南
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xyvzerrzq252@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(utegjba478@gmail.com): 'NoneType' object is not subscriptable
 
 [cht.taipei]
 
@@ -735,32 +735,32 @@ type  v2board
 
 [ss-id.com]
 buy  pass
-email  dtoxktvwu272@gmail.com
+email  cqguymzbg640@gmail.com
 name  SS-ID
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ss-id.com/api/v1/client/subscribe?token=4369350fc8736a2528188c2cb8de7ac4
-time  2025-01-03 08:28:25.285232+08:00
+sub_url  https://ss-id.com/api/v1/client/subscribe?token=fcdc54b66429e151d36230d404c59277
+time  2025-01-03 08:49:47.293312+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [app.gomeow.cloud]
 name  狗喵加速器
 type  v2board
-更新订阅链接/续费续签失败  注册失败(mkincxm85@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ahuzddfov428@gmail.com): 'NoneType' object is not subscriptable
 
 [super.quicklinkapp.top]
 name  FastLink
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fvztyutps352@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ojvwudp222@gmail.com): 'NoneType' object is not subscriptable
 
 [qingyunti.cc]
 api_host  qytweba01.cc
-email  wpgtyeidr112@gmail.com
+email  nvfckisjb599@gmail.com
 type  v2board
 更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
 
 [w02.qytl2web01.cc]
-email  ohzydyt697@gmail.com
+email  qacifewq351@gmail.com
 type  v2board
 更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
 
@@ -771,14 +771,14 @@ type  v2board
 [t.me/+x0bn_QAIFRZjMjJk]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ltxgxtwyx814@gmail.com): {'ok': True}
+更新订阅链接/续费续签失败  注册失败(hqqeploe931@gmail.com): {'ok': True}
 
 [latin.xxmad.com]
 
 [kuailejc.xyz]
 name  快乐机场
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  发送邮箱验证码失败(qvojsykqz202@sharklasers.com): {'message': '验证码有误'}
 
 [www.zesx.org]
 
@@ -796,17 +796,17 @@ type  v2board
 
 [air.aptlive.org]
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
+更新订阅链接/续费续签失败  发送邮箱验证码失败(rjmapoddy785@mydefipet.live): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [changyouvpn.top]
 name  畅游VPN
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xdlpbvowt115@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(zenhgpopf653@gmail.com): 'NoneType' object is not subscriptable
 
 [powerwan.net]
 name  PowerWan
 type  v2board
-更新订阅链接/续费续签失败  注册失败(gdoetlf53@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(oviophu118@gmail.com): 'NoneType' object is not subscriptable
 
 [afun.la]
 
