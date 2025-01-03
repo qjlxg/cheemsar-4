@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, tfo: true, type: vmess, uuid: 9baf3cef-278f-4f6f-80e1-aa24c12d2f7c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, tfo: true, type: vmess, uuid: 9baf3cef-278f-4f6f-80e1-aa24c12d2f7c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1fa39df4-29a3-44e4-b8dc-e774b3e0934e, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 1fa39df4-29a3-44e4-b8dc-e774b3e0934e, udp: true}
