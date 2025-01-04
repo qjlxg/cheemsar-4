@@ -1,7 +1,21 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: e1b39edb9077c9a0c8e72189e9b46b8a.node.tro.node-is.green, port: 45585, type: trojan, password: aa239985-a973-4626-b493-4d3b74c5428a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 323bca53d0399cf55f29a4973cdd63f5.node.tro.node-is.green, port: 42775, type: trojan, password: aa239985-a973-4626-b493-4d3b74c5428a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 88c466e5117727184b54c6e72885b1ba.node.tro.node-is.green, port: 49242, type: trojan, password: aa239985-a973-4626-b493-4d3b74c5428a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: 5a152fe743ab48977171cf17d480910c.node.tro.node-is.green, port: 43082, type: trojan, password: aa239985-a973-4626-b493-4d3b74c5428a, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
+- &id001 {name: 🇺🇸 US美国-圣何塞① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32161, type: ss, cipher: chacha20-ietf-poly1305, password: c867d779-774c-4c79-a08d-40f4fdc11478, udp: true}
+- &id002 {name: 🇺🇸 US美国-凤凰城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32162, type: ss, cipher: chacha20-ietf-poly1305, password: c867d779-774c-4c79-a08d-40f4fdc11478, udp: true}
+- &id003 {name: 🇺🇸 US美国-洛杉矶③ - 铁蛋加速, server: mmmm2024-cm1.tiedan168.xyz, port: 32163, type: ss, cipher: chacha20-ietf-poly1305, password: c867d779-774c-4c79-a08d-40f4fdc11478, udp: true}
+- &id004 {name: 🇺🇸 US美国-洛杉矶④ - 铁蛋加速, server: mmmm2024-cm1.tiedan168.xyz, port: 32164, type: ss, cipher: chacha20-ietf-poly1305, password: c867d779-774c-4c79-a08d-40f4fdc11478, udp: true}
+- {name: 🇺🇸 United States 01 - DuckLink, server: cn.ducklink.top, port: 21501, type: ss, cipher: chacha20-ietf-poly1305, password: a27ffe53-5eca-4e38-bb92-7605252a71bb, udp: true}
+- {name: 🇺🇸 United States 02 - DuckLink, server: cn.ducklink.top, port: 21502, type: ss, cipher: chacha20-ietf-poly1305, password: a27ffe53-5eca-4e38-bb92-7605252a71bb, udp: true}
+- {name: 🇺🇸 United States 03 - DuckLink, server: cn.ducklink.top, port: 21503, type: ss, cipher: chacha20-ietf-poly1305, password: a27ffe53-5eca-4e38-bb92-7605252a71bb, udp: true}
+- {name: 🇺🇸 United States 04 - DuckLink, server: cn.ducklink.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: a27ffe53-5eca-4e38-bb92-7605252a71bb, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- {name: 🇺🇸 美国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: 0d0fa220-48e0-49dc-9ff0-8d2757a7fc58, udp: true}
+- {name: 🇺🇸 美国2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: 0d0fa220-48e0-49dc-9ff0-8d2757a7fc58, udp: true}

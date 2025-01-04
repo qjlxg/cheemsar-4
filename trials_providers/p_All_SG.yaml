@@ -1,0 +1,12 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 Singapore 01 - DuckLink, server: sg.ducklink.top, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: a27ffe53-5eca-4e38-bb92-7605252a71bb, udp: true}
+- {name: 🇸🇬 Singapore 02 - DuckLink, server: sg.ducklink.top, port: 21202, type: ss, cipher: chacha20-ietf-poly1305, password: a27ffe53-5eca-4e38-bb92-7605252a71bb, udp: true}
+- {name: 🇸🇬 新加坡1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: 0d0fa220-48e0-49dc-9ff0-8d2757a7fc58, udp: true}
+- {name: 🇸🇬 新加坡2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: 0d0fa220-48e0-49dc-9ff0-8d2757a7fc58, udp: true}

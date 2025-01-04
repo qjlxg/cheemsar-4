@@ -1,5 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: e19e9047261d782fd78807ca237e24c4.node.tro.node-is.green, port: 45528, type: trojan, password: aa239985-a973-4626-b493-4d3b74c5428a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: adc26b70da233c4f38d1410a2e1c6a12.node.tro.node-is.green, port: 47771, type: trojan, password: aa239985-a973-4626-b493-4d3b74c5428a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 85e06454-68dd-430a-ad66-2af465810632, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇹🇼 TW台湾① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32131, type: ss, cipher: chacha20-ietf-poly1305, password: c867d779-774c-4c79-a08d-40f4fdc11478, udp: true}
+- &id002 {name: 🇹🇼 TW台湾② - 铁蛋加速, server: an-cm2.tiedandddd.shop, port: 32132, type: ss, cipher: chacha20-ietf-poly1305, password: c867d779-774c-4c79-a08d-40f4fdc11478, udp: true}
+- *id001
+- *id002
+- {name: 🇹🇼 台湾1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19621, type: ss, cipher: chacha20-ietf-poly1305, password: 0d0fa220-48e0-49dc-9ff0-8d2757a7fc58, udp: true}
+- {name: 🇹🇼 台湾2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19621, type: ss, cipher: chacha20-ietf-poly1305, password: 0d0fa220-48e0-49dc-9ff0-8d2757a7fc58, udp: true}
