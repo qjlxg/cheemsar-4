@@ -1,475 +1,51 @@
-[alice.sale]
+[dash0.moonriver.one]
 
-[anyland.club]
-buy  pass
-email  acgrzyep383@gmail.com
-name  ANYLAND
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://103.118.41.241:25678/api/v1/client/subscribe?token=a59c35449908bed570cb4d7e0b12eb85
-time  2025-01-04 19:43:16.446551+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+[dash1.moonriver.one]
 
-[api.付费机场.com]
+[dash15.moonriver.one]
 
-[api1.付费机场.com]
-
-[api2.付费机场.com]
-
-[app.birds.hk]
-name  Birds
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
-
-[as.saururus.ink]
-
-[az.233235.xyz]
-buy  pass
-email  ozneqqfui226@gmail.com
-name  AZ云
-node_n  18
-sub_info  0B  1G  2025-01-04 20:43:16+08:00  (剩余 1G 0:59:53.794807)
-sub_url  https://az.233235.xyz/api/v1/client/subscribe?token=bf94efe2bbccc93488dd10c6cc6055bd
-time  2025-01-04 19:43:17.351662+08:00
-type  v2board
-
-[azyun.top]
-buy  pass
-email  mbylbhjgh359@gmail.com
-name  AZ云
-node_n  18
-sub_info  0B  1G  2025-01-04 20:44:17+08:00  (剩余 1G 0:59:57.876116)
-sub_url  https://az.233235.xyz/api/v1/client/subscribe?token=2c7d26bb38ad939259eb2f9f1e3454d5
-time  2025-01-04 19:44:17.789762+08:00
-type  v2board
-
-[b.ikunvpn.com]
-name  ikunVPN
-type  v2board
-更新订阅链接/续费续签失败  注册失败(lshcsgpe305@gmail.com): 'NoneType' object is not subscriptable
-
-[bajie.pw]
-name  八戒
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"nllismn553@ipiso.tmmad.com","success":"false"}'
-
-[baozipu.us]
-name  包子铺
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(saddqusg618@moakt.ws): {'message': '验证码有误'}
-
-[base.vmssr.online]
-buy  pass
-email  osnkruo44@gmail.com
-name  VMSSR - 优质加速
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://base.vmssr.online/api/v1/client/subscribe?token=e29d555f5538a0d96570e1049331d1a6
-time  2025-01-04 19:43:16.521050+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[bestssr.net]
-buy  pass
-email  byvnbahvj692@gmail.com
-name  BestSSR
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://91ssr.com/api/v1/client/subscribe?token=1500778f38d6a0b023d041faa97b8f50
-time  2025-01-04 19:43:18.264904+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[bitbucket.org]
-
-[board.cherrynet.work]
-name  Cherry Network
-type  v2board
-更新订阅链接/续费续签失败  注册失败(bmawhyfo688@gmail.com): 'NoneType' object is not subscriptable
-
-[book.jjcloud.xyz]
-
-[boslife.io]
-
-[byart.cc/840]
-
-[cainiao216.top]
-buy  pass
-email  qsyjjeduv593@gmail.com
-name  菜鸟机场
-node_n  36
-sub_info  0B  10G  2025-01-04 21:43:18+08:00  (剩余 10G 1:57:50.295863)
-sub_url  https://cainiao224.top/api/v1/client/subscribe?token=4da7839e35f8f13e82842e83918bc1e9
-time  2025-01-04 19:43:19.363327+08:00
-type  v2board
-
-[cainiao217.top]
-buy  pass
-email  jajiuvptd341@gmail.com
-name  菜鸟机场
-node_n  36
-sub_info  0B  10G  2025-01-04 21:43:18+08:00  (剩余 10G 1:59:53.510182)
-sub_url  https://cainiao224.top/api/v1/client/subscribe?token=7de2254112dbc0867bd2ee35b7413d53
-time  2025-01-04 19:43:19.553616+08:00
-type  v2board
-
-[cat.1919810.com]
-buy  pass
-email  jiusobqw374@gmail.com
-name  猫狗机场
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://my.catfaka.com/api/v1/client/subscribe?token=40c964e49062901fde6a6f30f2937bb6
-time  2025-01-04 19:43:19.424120+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[cat77.org]
-api_host  blueice612.top
-buy  pass
-email  lnyieei452@gmail.com
-name  貓七七 ♚
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://happyday123.top/api/v1/client/subscribe?token=89d0a171b00189533c7b8344ec50168d
-time  2025-01-04 19:43:17.716397+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[cc.7en7.com]
-api_host  shunjian.ccnccn.cn
-name  瞬间加密网络
-type  v2board
-更新订阅链接/续费续签失败  注册失败(zppbzwpj838@guerrillamail.de): 邮箱后缀不处于白名单中
-
-[cdn.jayyyds.cyou]
-api_host  back1030.jaycloud11111.top
-buy  pass
-email  puzbjtuus374@gmail.com
-name  杰雲
-sub_url  https://jaybest.sbs/study?token=b6f08712ac20740b2319b3e210835851
-time  2025-01-04 19:43:17.629764+08:00
-type  v2board
-获取订阅失败  (https://back1030.jaycloud11111.top/study?token=b6f08712ac20740b2319b3e210835851): 500 Internal Server Error 'error'
-
-[clashcn.com]
-
-[clashfor.org]
-
-[clashverge.net]
-
-[clashverge.v2rayfast.com]
-
-[class.vmssr.online]
-buy  pass
-email  whdnshy110@gmail.com
-name  VMSSR - 优质加速
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://class.vmssr.online/api/v1/client/subscribe?token=addca8cbe6e0ed8ef9a4f81924a2ddd0
-time  2025-01-04 19:43:16.516475+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[cloudfisher.net]
-
-[cloudyu.top]
-name  小金鱼
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
-
-[cn.logseq.com]
-
-[cn.newbee.cyou]
-buy  pass
-email  orazenpft562@gmail.com
-name  NewBee国际机场
-node_n  23
-sub_info  0B  5G  2025-01-05 01:43:17+08:00  (剩余 5G 5:59:54.699859)
-sub_url  https://subscribe-1.newbee8.monster/api/v1/client/subscribe?token=b1749c8356d00ff6fde311f603f1ca07
-time  2025-01-04 19:43:18.693610+08:00
-type  v2board
-
-[console.xenolink.net]
-name  Xeno Link
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ovesklli113@mail.shouyou789.com): 邮箱后缀不处于白名单中
-
-[d.sodayun.xyz]
-
-[d18pcyja9k9k5r.cloudfront.net]
-name  大欣机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(horbepxem519@gmail.com): 'NoneType' object is not subscriptable
-
-[dash.996cloud.top]
-name  FSCloud
-type  v2board
-更新订阅链接/续费续签失败  注册失败(yeikrdns344@guerrillamail.biz): 邮箱后缀不处于白名单中
-
-[dash.moeu01.com]
-
-[dash.vmssr.top]
-buy  pass
-email  buscwurzv349@gmail.com
-name  VMSSR - 优质加速
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dash.vmssr.top/api/v1/client/subscribe?token=b3405bcd333d2ec2f6bdf014b1bb72a5
-time  2025-01-04 19:43:17.110931+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[dash2.moonriver.one]
+[dash3.moonriver.one]
 buy  period=month_price&plan_id=6
-email  cyiidbisn552@gmail.com
+email  xrxyuatxw435@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-02-04 19:43:20+08:00  (剩余 1G 30 days, 23:55:14.561532)
-sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=dfee8b8ff52c22af9e5963275688ce79
-time  2025-01-04 19:43:21.030168+08:00
+sub_info  0B  1G  2025-02-04 20:16:20+08:00  (剩余 1G 30 days, 23:55:16.416182)
+sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=9b7906773dfa83261f5c3dabbec5e5af
+time  2025-01-04 20:16:21.339352+08:00
 type  v2board
 保存base64/clash订阅失败  string indices must be integers
 
-[discuss.d2l.ai]
-
-[dl.3dmgame.com/]
-
-[dlv6ph.helplookapp.com]
-
-[doucat.top]
-name  逗猫
-type  v2board
-更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
-
-[doucat.top/index.php]
-name  逗猫
-type  v2board
-更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
-
-[f.fengwo.online]
-buy  pass
-email  luerokd406@gmail.com
-name  加入蜂窝-享受成功人生
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fengwosub.vfbhg.cn/api/v1/client/subscribe?token=793202f90adf9d049d7cb84e0fd8071c
-time  2025-01-04 19:43:17.901143+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[feiniaoyun.top]
-buy  pass
-email  cvdckurw898@gmail.com
-name  飞鸟云
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fn3.767887.xyz/api/v1/client/subscribe?token=0a3d1eb940da240afceac41f054c220f
-time  2025-01-04 19:43:19.871855+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[feisha.369.cyou]
-
-[forums.unraid.net]
-
-[frenode.top/index.php]
-name  Panda Nodes - 免费试用机场国内稳定能用安全的加速器推荐,小火箭国外梯子全球CN2 VPN网络高速匿名付费加速魔法软件,Free Trial Private Proxy
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"tkrqwrqfr437@444.vupkl.shop","success":"false"}'
-
-[front.fishport.cloud]
-banned_domains  moakt.cc
-name  FishPort
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(vxjuakn512@moakt.cc)
-
-[ftzaffcom01.fliggyaff.xyz]
-
-[ftzcc04.fliggycloud.pro]
-
-[ftzcom01.fliggycloud.net]
-buy  pass
-email  phcpdssi111@gmail.com
-name  飞天猪
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://apiv1.fliggylink.com/api/v1/client/subscribe?token=ded88c548c37e77f723c2f2b4f07759b
-time  2025-01-04 19:43:20.934746+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[ftzcom02.fliggycloud.net]
-buy  pass
-email  mroupdgq463@gmail.com
-name  飞天猪
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://apiv1.fliggylink.com/api/v1/client/subscribe?token=390fb2007925e33b8c6226c18baa251c
-time  2025-01-04 19:43:21.941782+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[ftzvipaffcom02.fliggyvipaff.xyz]
-buy  pass
-email  enjbvij949@gmail.com
-name  飞天猪
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://apiv1.fliggylink.com/api/v1/client/subscribe?token=3a764754ac2159b2631cd0b9589d14a0
-time  2025-01-04 19:43:21.014104+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[ftzvipaffcom05.fliggyvipaff.xyz]
-buy  pass
-email  tgeefhuup175@gmail.com
-name  飞天猪
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://apiv1.fliggylink.com/api/v1/client/subscribe?token=6d740f115505f86169ec3dad4d00d52e
-time  2025-01-04 19:43:22.171005+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[function.vmssr.online]
-buy  pass
-email  xwbjdoph315@gmail.com
-name  VMSSR - 优质加速
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://function.vmssr.online/api/v1/client/subscribe?token=f506bef1b00d10a54f8b7d2cceb83328
-time  2025-01-04 19:43:19.195679+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[geek.rrabits.com]
-
-[get.suzi03.xyz]
-name  速子云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"lkwsznvy551@rgzx.tmmad.com","success":"false"}'
-
-[haojichang.com]
-
-[hello-yundong.com]
-name  GW云洞
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"pehcncp612@444.vupkl.shop","success":"false"}'
-
-[help.aifanfan.baidu.com]
-
-[hhonode.top]
-banned_domains  tmail.ws
-name  Panda Nodes - 免费试用机场国内稳定能用安全的加速器推荐,小火箭国外梯子全球CN2 VPN网络高速匿名付费加速魔法软件,Free Trial Private Proxy
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(gobuugv693@tmail.ws)
-
-[home.qingyun.io]
-banned_domains  lista.cc
-name  轻云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(ifpxqyls800@lista.cc)
-
-[hydro.ac/lostpass]
-
-[jaybest.top]
-api_host  back1030.jaycloud11111.top
-buy  pass
-email  wowfdfhc109@gmail.com
-name  杰雲
-sub_url  https://jaybest.sbs/study?token=63997ffb196fd7d1e47222c5a55348cb
-time  2025-01-04 19:43:21.658519+08:00
-type  v2board
-获取订阅失败  (https://back1030.jaycloud11111.top/study?token=63997ffb196fd7d1e47222c5a55348cb): 500 Internal Server Error 'error'
-
-[jc.mhdy.me]
-
-[jckk.xyz]
-
-[jfcloud.net]
-
-[jgjs02.com]
-
-[jiasuyuan.org]
-banned_domains  tmpmail.net
-name  加速园
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(ykqpgviz792@tmpmail.net)
-
-[jiemahao.com]
-
-[jsmvpn.com]
-
-[jump2.bdimg.com]
-
-[justmysocks.github.io]
-
-[kerrynotes.com]
-
-[kugou.cloud]
-buy  pass
-email  rkmwwsys865@gmail.com
-name  KUGOU云
-node_n  45
-sub_info  0B  2G  2025-01-04 21:43:23+08:00  (剩余 2G 1:59:51.298415)
-sub_url  https://ig7yfwe9823r4uyga.ng45rtg5sexjy34.top/api/v1/client/subscribe?token=b238b273818b00fbc9ea3dd67d8d8131
-time  2025-01-04 19:43:24.788982+08:00
-type  v2board
-
-[lbei.net]
-banned_domains  jkb.tmmad.com
-name  零北机场
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(cealrqwi500@jkb.tmmad.com)
-
-[lingualeo.com]
-
-[m.mansu.network]
-
-[m01.huidu520.com]
-
-[m5.juanwang001.online]
-name  卷王机场
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zzqrtbt391@teml.net): {'message': '验证码有误'}
-
-[maomaoyun.cloud]
-name  猫猫云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(womkyxwzg435@gmail.com): 'NoneType' object is not subscriptable
-
-[mccloud.gay]
-name  rancho
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ltofxcxwd969@x866.cc): {'message': '无效请求', 'exception': 'Symfony\\Component\\HttpKernel\\Exception\\HttpException', 'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Application.php', 'line': 1132, 'trace': [{'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php', 'line': 44, 'function': 'abort', 'class': 'Illuminate\\Foundation\\Application', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/app/Http/Controllers/V1/Passport/CommController.php', 'line': 38, 'function': 'abort'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Controller.php', 'line': 54, 'function': 'sendEmailVerify', 'class': 'App\\Http\\Controllers\\V1\\Passport\\CommController', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php', 'line': 45, 'function': 'callAction', 'class': 'Illuminate\\Routing\\Controller', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 261, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\ControllerDispatcher', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 205, 'function': 'runController', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 721, 'function': 'run', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Routing\\{closure}', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php', 'line': 50, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Routing\\Middleware\\SubstituteBindings', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/app/Http/Middleware/Language.php', 'line': 15, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\Language', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/app/Http/Middleware/ForceJson.php', 'line': 20, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\ForceJson', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 719, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 698, 'function': 'runRouteWithinStack', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 662, 'function': 'runRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 651, 'function': 'dispatchToRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 167, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Foundation\\Http\\{closure}', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php', 'line': 31, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php', 'line': 40, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TrimStrings', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php', 'line': 27, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php', 'line': 86, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/fideloper/proxy/src/TrustProxies.php', 'line': 57, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Fideloper\\Proxy\\TrustProxies', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/app/Http/Middleware/UAfilter.php', 'line': 16, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\UAFilter', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/app/Http/Middleware/CORS.php', 'line': 18, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\CORS', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 142, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 111, 'function': 'sendRequestThroughRouter', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/sites/mccloud.gay/index/public/index.php', 'line': 54, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}]}
-
-[miaona.org]
-name  Miaona!
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(erblpurn398@spam4.me): {'message': '验证码有误'}
-
-[mojie.la]
-
-[moonriver.one]
+[dash4.moonriver.one]
 buy  period=month_price&plan_id=6
-email  fkphkjfr22@gmail.com
+email  xmmleuppb40@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-02-04 19:43:26+08:00  (剩余 1G 30 days, 23:55:09.112880)
-sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=bf24a86a3b132dd4cb54f78b22dbd084
-time  2025-01-04 19:43:27.331124+08:00
+sub_info  0B  1G  2025-02-04 20:16:20+08:00  (剩余 1G 30 days, 23:53:11.230784)
+sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=244ab13c2ab7f86a53960bdd07b6534e
+time  2025-01-04 20:16:21.368453+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 
-[my.bitzconnect.com]
-name  Bitz Net
+[dash5.moonriver.one]
+buy  period=month_price&plan_id=6
+email  kyjtaeurs833@gmail.com
+name  MoonRiver月河村
+sub_info  0B  1G  2025-02-04 20:16:20+08:00  (剩余 1G 30 days, 23:55:12.359103)
+sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=708fff47b826881bf7350c6beca6f09a
+time  2025-01-04 20:16:21.166120+08:00
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ywjfhcgpb646@disbox.net): {'message': '验证码有误'}
+保存base64/clash订阅失败  string indices must be integers
 
-[my.pass-rabbit.com]
-name  🐇 爬兔兔
-type  v2board
-更新订阅链接/续费续签失败  注册失败(srheqnka916@moakt.co): 邮箱后缀不处于白名单中
+[dash6.moonriver.one]
 
-[my.recmata.net]
+[dash7.moonriver.one]
 
-[myjichang.com]
-name  我的机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(dzylpwga59@444.waocq.shop): 邮箱后缀不处于白名单中
+[dash8.moonriver.one]
 
-[needss.link]
-buy  pass
-email  todqdti976@gmail.com
-name  needss云
-node_n  41
-sub_info  0B  10G  2025-01-05 01:43:27+08:00  (剩余 10G 5:59:55.116422)
-sub_url  https://dy.needss.link/api/v1/client/subscribe?token=f15af6e26d1cb914f0ee1369251c1187
-time  2025-01-04 19:43:29.150067+08:00
-type  v2board
+[dash9.moonriver.one]
+
+[dash10.moonriver.one]
+
+[dash11.moonriver.one]
+
+[dash12.moonriver.one]
+
+[dash13.moonriver.one]
