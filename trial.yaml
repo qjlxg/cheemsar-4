@@ -10,19 +10,9 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -32,36 +22,14 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
-  - 🇸🇬 新加坡一 - LIME
-  - 🇸🇬 新加坡二 - LIME
-  - 🇸🇬 新加坡三 - LIME
-  - 🇸🇬 新加坡四 - LIME
-  - 🇸🇬 新加坡五 - LIME
-  - 🇸🇬 新加坡六 - LIME
-  - 🇯🇵 日本一 - LIME
-  - 🇯🇵 日本二 - LIME
-  - 🇯🇵 日本三 - LIME
-  - 🇯🇵 日本四 - LIME
-  - 🇯🇵 日本五 - LIME
-  - 🇯🇵 日本六 - LIME
-  - 🇺🇸 美国一 - LIME
-  - 🇺🇸 美国二 - LIME
-  - 🇺🇸 美国三 - LIME
-  - 🇺🇸 美国四 - LIME
-  - 🇺🇸 美国五 - LIME
-  - 🇺🇸 美国六 - LIME
-  - xqnqn.com防失联 - LIME
-  - 🇰🇷 韩国一 - LIME
-  - 🇰🇷 韩国二 - LIME
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - ℹ️ 永久官网:www.猫云.net - 猫云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,27 +46,15 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -108,142 +64,44 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡一 - LIME
-  - 🇸🇬 新加坡二 - LIME
-  - 🇸🇬 新加坡三 - LIME
-  - 🇸🇬 新加坡四 - LIME
-  - 🇸🇬 新加坡五 - LIME
-  - 🇸🇬 新加坡六 - LIME
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本一 - LIME
-  - 🇯🇵 日本二 - LIME
-  - 🇯🇵 日本三 - LIME
-  - 🇯🇵 日本四 - LIME
-  - 🇯🇵 日本五 - LIME
-  - 🇯🇵 日本六 - LIME
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国一 - LIME
-  - 🇺🇸 美国二 - LIME
-  - 🇺🇸 美国三 - LIME
-  - 🇺🇸 美国四 - LIME
-  - 🇺🇸 美国五 - LIME
-  - 🇺🇸 美国六 - LIME
+  proxies: &id002
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id008
-  - xqnqn.com防失联 - LIME
-  - 🇰🇷 韩国一 - LIME
-  - 🇰🇷 韩国二 - LIME
+  proxies: &id003
+  - ℹ️ 永久官网:www.猫云.net - 猫云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id007
+  proxies: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id008
+  proxies: *id003
 proxies:
-- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
-- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: ee9f3536-ca90-42bb-b94e-582bf5168688, udp: true}
+- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: cr5cghVY4fxZFWFu, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.cn-db.top, port: 2082, type: vmess, uuid: 28085ba4-1bf0-3dac-b0a3-2e6c01b243c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.230.120, headers: {Host: 100-238-229-4.s2.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 8880, type: vmess, uuid: 28085ba4-1bf0-3dac-b0a3-2e6c01b243c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.142.213, headers: {Host: 100-9-117-111.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 80, type: vmess, uuid: 28085ba4-1bf0-3dac-b0a3-2e6c01b243c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.242.135, headers: {Host: 100-247-108-196.s3.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 8880, type: vmess, uuid: 28085ba4-1bf0-3dac-b0a3-2e6c01b243c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.57.207, headers: {Host: 100-74-71-34.s3.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s4.db-link02.top, port: 2082, type: vmess, uuid: 28085ba4-1bf0-3dac-b0a3-2e6c01b243c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.63.156, headers: {Host: 100-114-127-221.s4.db-link02.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s3.db-link01.top, port: 2086, type: vmess, uuid: 28085ba4-1bf0-3dac-b0a3-2e6c01b243c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.180.18, headers: {Host: 100-34-91-15.s3.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.db-link01.top, port: 8880, type: vmess, uuid: 28085ba4-1bf0-3dac-b0a3-2e6c01b243c7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.47.93, headers: {Host: 100-52-13-179.s2.db-link01.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
