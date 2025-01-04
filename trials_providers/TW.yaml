@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 6fe0a0a47f5d52a645ac8c778c11c84f.node.tro.node-is.green, port: 46260, type: trojan, password: 8ff2365b-8de3-47f5-9827-6581d19555f5, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 1df84ee9039152704e4004dfef942b3b.node.tro.node-is.green, port: 48108, type: trojan, password: 8ff2365b-8de3-47f5-9827-6581d19555f5, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: cebc924c-021f-4519-a2a6-c015d175be4a, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
