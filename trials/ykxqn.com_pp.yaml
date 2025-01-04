@@ -145,54 +145,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tiedan.595418.xyz/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/ykxqn.com/HK.yaml
     interval: 180
-    path: trials_providers/tiedan.595418.xyz/HK.yaml
+    path: trials_providers/ykxqn.com/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tiedan.595418.xyz/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/ykxqn.com/TW.yaml
     interval: 180
-    path: trials_providers/tiedan.595418.xyz/TW.yaml
+    path: trials_providers/ykxqn.com/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tiedan.595418.xyz/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/ykxqn.com/SG.yaml
     interval: 180
-    path: trials_providers/tiedan.595418.xyz/SG.yaml
+    path: trials_providers/ykxqn.com/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tiedan.595418.xyz/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/ykxqn.com/JP.yaml
     interval: 180
-    path: trials_providers/tiedan.595418.xyz/JP.yaml
+    path: trials_providers/ykxqn.com/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tiedan.595418.xyz/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/ykxqn.com/US.yaml
     interval: 180
-    path: trials_providers/tiedan.595418.xyz/US.yaml
+    path: trials_providers/ykxqn.com/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/tiedan.595418.xyz/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/ykxqn.com/Other.yaml
     interval: 180
-    path: trials_providers/tiedan.595418.xyz/Other.yaml
+    path: trials_providers/ykxqn.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
