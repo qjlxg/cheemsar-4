@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: a35422647afd1407c602771bcea6869e.node.tro.node-is.green, port: 46624, type: trojan, password: e10f8579-55ad-4b58-a7f7-45bd5157a5b6, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 9fa78431615d6a95b332af596a553dcd.node.tro.node-is.green, port: 46996, type: trojan, password: e10f8579-55ad-4b58-a7f7-45bd5157a5b6, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 403d1a67e616d4a698acdf0836133962.node.tro.node-is.green, port: 41049, type: trojan, password: e10f8579-55ad-4b58-a7f7-45bd5157a5b6, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: c1f161eaeec581a5b4b02a1c83704cf3.node.tro.node-is.green, port: 41607, type: trojan, password: e10f8579-55ad-4b58-a7f7-45bd5157a5b6, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 6da7fd4e-6580-4903-a576-8b70afe38359, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
+- {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 6da7fd4e-6580-4903-a576-8b70afe38359, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
