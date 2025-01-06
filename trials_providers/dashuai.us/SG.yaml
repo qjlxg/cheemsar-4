@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 25c390d0-892e-4103-ad78-047bc4f6c53b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 25c390d0-892e-4103-ad78-047bc4f6c53b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
