@@ -1,0 +1,47 @@
+%YAML 1.1
+---
+proxies:
+- &id001 {name: ℹ️ 建议有事没事都更新订阅 - 菜鸟机场, server: cainiao212.top, port: 666, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id002 {name: 🇬🇧 英国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 59863, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id003 {name: 🇬🇧 英国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 30518, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id004 {name: 🇬🇧 英国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22771, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id005 {name: 🇸🇪 瑞典中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 22539, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id006 {name: 🇻🇳 越南中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21071, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id007 {name: 🇹🇭 泰国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20289, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id008 {name: 🇮🇳 印度中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21061, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id009 {name: 🇩🇪 德国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21098, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id010 {name: 🇧🇷 巴西中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20936, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id011 {name: 🇹🇷 土耳其中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21048, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id012 {name: 🇦🇪 阿联酋中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21059, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id013 {name: 🇲🇾 马来西亚中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20119, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id014 {name: 🇰🇿 哈萨克斯坦中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- &id015 {name: ♡⃝♡⃝♡⃝♡⃝♡⃝ ◡̈下方为备用节点 - 菜鸟机场, server: 666.com, port: 777, type: ss, cipher: chacha20-ietf-poly1305, password: ba69cb92-563d-4587-b7ec-971adb17e509, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: thtf.cokecloud.top, port: 34523, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 17463, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: idtf.cokecloud.top, port: 32725, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frtf.cokecloud.top, port: 15468, type: vmess, uuid: 470a6da8-112d-4c09-91ff-2a9b21a3138c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcuk.cokecloud.top, port: 18227, type: vmess, uuid: 470a6da8-112d-4c09-91ff-2a9b21a3138c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 470a6da8-112d-4c09-91ff-2a9b21a3138c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 470a6da8-112d-4c09-91ff-2a9b21a3138c, udp: true}
+- {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 470a6da8-112d-4c09-91ff-2a9b21a3138c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
