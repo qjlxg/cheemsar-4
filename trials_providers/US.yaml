@@ -1,0 +1,26 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: e58aedab-2132-4745-9d43-045b25425849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: e58aedab-2132-4745-9d43-045b25425849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: e58aedab-2132-4745-9d43-045b25425849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: e58aedab-2132-4745-9d43-045b25425849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: e58aedab-2132-4745-9d43-045b25425849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: e58aedab-2132-4745-9d43-045b25425849, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US美国-圣何塞① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32161, type: ss, cipher: chacha20-ietf-poly1305, password: 68cb6b67-ac3f-4806-8dc7-eb77d279bb28, udp: true}
+- {name: 🇺🇸 US美国-凤凰城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32162, type: ss, cipher: chacha20-ietf-poly1305, password: 68cb6b67-ac3f-4806-8dc7-eb77d279bb28, udp: true}
+- {name: 🇺🇸 US美国-洛杉矶③ - 铁蛋加速, server: mmmm2024-cm1.tiedan168.xyz, port: 32163, type: ss, cipher: chacha20-ietf-poly1305, password: 68cb6b67-ac3f-4806-8dc7-eb77d279bb28, udp: true}
+- {name: 🇺🇸 US美国-洛杉矶④ - 铁蛋加速, server: mmmm2024-cm1.tiedan168.xyz, port: 32164, type: ss, cipher: chacha20-ietf-poly1305, password: 68cb6b67-ac3f-4806-8dc7-eb77d279bb28, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: ce62d523-4c66-4566-bd5a-d25189998f02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: ce62d523-4c66-4566-bd5a-d25189998f02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 42f451a5-0ea0-43a7-975e-e237812aef6b, udp: true}
+- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 42f451a5-0ea0-43a7-975e-e237812aef6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 42f451a5-0ea0-43a7-975e-e237812aef6b, udp: true}
+- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40793, type: ss, cipher: chacha20-ietf-poly1305, password: 42f451a5-0ea0-43a7-975e-e237812aef6b, udp: true}
+- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 42f451a5-0ea0-43a7-975e-e237812aef6b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, type: ss, cipher: chacha20-ietf-poly1305, password: e4407b7d-f424-45a7-9919-c9ab6229f4b0, udp: true}
+- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, type: ss, cipher: chacha20-ietf-poly1305, password: e4407b7d-f424-45a7-9919-c9ab6229f4b0, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, type: ss, cipher: chacha20-ietf-poly1305, password: e4407b7d-f424-45a7-9919-c9ab6229f4b0, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, type: ss, cipher: chacha20-ietf-poly1305, password: e4407b7d-f424-45a7-9919-c9ab6229f4b0, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, type: ss, cipher: chacha20-ietf-poly1305, password: e4407b7d-f424-45a7-9919-c9ab6229f4b0, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, type: ss, cipher: chacha20-ietf-poly1305, password: e4407b7d-f424-45a7-9919-c9ab6229f4b0, udp: true}
