@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡BGP 中转 01 1.5x - 廉价机场, server: ceb5d637345e9d2dc4918a038c5b8f8d.node.tro.node-is.green, port: 47887, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡BGP 中转 02 1.5x - 廉价机场, server: ea86ae5799dac297eca26ae88c397226.node.tro.node-is.green, port: 46830, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: www.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [vmess]新加坡02-V4-流媒体 - HY-2', server: cf.hy2.one, port: 2052, tfo: true, type: vmess, uuid: b36a4aa7-a04e-4ab5-bfc9-ba382f6ea757, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /0, headers: {Host: sg0002.hy-2.top}}, udp: true}
