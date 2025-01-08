@@ -14,14 +14,12 @@ proxy-groups:
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - DIRECT
 - name: ⚡ ‍低延迟
@@ -31,7 +29,6 @@ proxy-groups:
   - HK
   - TW
   - SG
-  - JP
   - US
 - name: 🛩️ ‍墙内
   type: select
@@ -63,12 +60,10 @@ proxy-groups:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -98,15 +93,10 @@ proxy-groups:
   tolerance: 100
   use: &id005
   - SG
-- name: 🇯🇵 ‍日本
-  type: url-test
-  tolerance: 100
-  use: &id006
-  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
   tolerance: 300
-  use: &id007
+  use: &id006
   - US
 - name: 👆🏻 ‍指定
   type: select
@@ -123,54 +113,42 @@ proxy-groups:
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
   use: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  use: *id006
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/hy-2.sbs/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/hy-2.sbs/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/hy-2.sbs/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/hy-2.sbs/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/hy-2.sbs/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/hy-2.sbs/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub-4/main/trials_providers/hy-2.sbs/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/hy-2.sbs/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港宇宙量子专线 2x - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, udp: true}
+- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: 348dbc414729c8e053e85f6db0ec4e70.node.tro.node-is.green, port: 42434, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: live.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 08f38b8d7298ab2c899b093537020ae1.node.tro.node-is.green, port: 41638, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 1f7c8ec11df3a0af83e576104d6f0538.node.tro.node-is.green, port: 48063, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: 54dc2f07f4980ef85eefed6989554232.node.tro.node-is.green, port: 41478, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: 101bda8066c9c8f5d3c22d23323e31bd.node.tro.node-is.green, port: 41908, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 1bc5cef6827c6dd5a2e4c803877d16ec.node.tro.node-is.green, port: 49724, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: 5a0b2bd2e256b487360486769802fa2e.node.tro.node-is.green, port: 40744, type: trojan, password: 13d5867b-b8cf-47e1-9722-d6f7f4dc886a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, tfo: true, type: vmess, uuid: b36a4aa7-a04e-4ab5-bfc9-ba382f6ea757, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
+- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, tfo: true, type: vmess, uuid: b36a4aa7-a04e-4ab5-bfc9-ba382f6ea757, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
