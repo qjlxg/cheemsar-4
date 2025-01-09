@@ -1,7 +1,48 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: ca244d654e8d7be9c2cd8ae5eaf2688f.node.tro.node-is.green, port: 43263, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: 0ac9c58aadb9b9f1adf51915ccba55dd.node.tro.node-is.green, port: 42644, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: e4cb0bbe7d5c7314c2f246fb6923b9e5.node.tro.node-is.green, port: 47427, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: fcbf24a8bb3b52ba4058729463e9c0fa.node.tro.node-is.green, port: 40471, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id006 {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id007 {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id008 {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id009 {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id010 {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id011 {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 73a97c77-e1d9-4d88-8f10-5eaa4ad49d19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
+- &id001 {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: f3e7024d-7ef9-4440-adcb-f1485b945416, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: f3e7024d-7ef9-4440-adcb-f1485b945416, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 vmess_US - 速迪云加速, server: us-n1.speedyyun.com, port: 25314, type: vmess, uuid: 322c1693-82a0-4126-972b-7dd9d2f9e72c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /victorias, headers: {Host: us-n1.speedyyun.com}}, udp: true}
+- *id001
+- *id002
+- {name: 🇺🇸 美国-01 - 畅游无限, server: 54.210.30.219, port: 8443, type: vmess, uuid: 480e0b46-36f6-4e66-81ec-886aac660485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇺🇸 美国-02 - 畅游无限, server: 54.234.200.220, port: 8443, type: vmess, uuid: 480e0b46-36f6-4e66-81ec-886aac660485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id012 {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 7177ea64-39df-4779-8113-c26c10bc49c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
+- &id013 {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 7177ea64-39df-4779-8113-c26c10bc49c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
+- &id004 {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: 2f2a2b2a-cf0c-42ed-9283-6ab4d6090f25, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id005 {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: 2f2a2b2a-cf0c-42ed-9283-6ab4d6090f25, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id003
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2052, tfo: true, type: vmess, uuid: 0677fdbb-b264-3884-abac-4513c7caf1c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.174.205, headers: {Host: 100-202-143-220.s3.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link02.top, port: 2095, tfo: true, type: vmess, uuid: 0677fdbb-b264-3884-abac-4513c7caf1c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.54.11, headers: {Host: 100-255-137-64.s4.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 2086, tfo: true, type: vmess, uuid: 0677fdbb-b264-3884-abac-4513c7caf1c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.246.117, headers: {Host: 100-209-69-1.s5.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2052, tfo: true, type: vmess, uuid: 0677fdbb-b264-3884-abac-4513c7caf1c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.24.69, headers: {Host: 100-38-14-167.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s1.cn-db.top, port: 80, tfo: true, type: vmess, uuid: 0677fdbb-b264-3884-abac-4513c7caf1c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.43.32, headers: {Host: 100-108-31-62.s1.cn-db.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s5.db-link01.top, port: 2052, tfo: true, type: vmess, uuid: 0677fdbb-b264-3884-abac-4513c7caf1c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.216.72, headers: {Host: 100-198-129-144.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s2.cn-db.top, port: 8880, tfo: true, type: vmess, uuid: 0677fdbb-b264-3884-abac-4513c7caf1c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.15.181, headers: {Host: 100-153-6-137.s2.cn-db.top}}, udp: true}
+- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: b5a99f40-3dcb-4b4a-ae97-11ca13bdea00, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 14.mamamajd.site, port: 23614, type: vmess, uuid: 0a837be8-96ac-3ef4-9b98-d1b36ce64a84, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 14.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 [vip①]美国2 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 0a837be8-96ac-3ef4-9b98-d1b36ce64a84, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: '🇺🇸 美国[01] - Heima', server: 107.149.238.99, port: 658, tfo: true, type: trojan, password: 934f0a30-a04d-47ae-b5e8-94e9fef919c3, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[02]中转 - Heima', server: vip.baima360.com, port: 30104, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 934f0a30-a04d-47ae-b5e8-94e9fef919c3, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 934f0a30-a04d-47ae-b5e8-94e9fef919c3, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, tfo: true, type: trojan, password: 934f0a30-a04d-47ae-b5e8-94e9fef919c3, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 36641, type: vmess, uuid: 98cf3619-4ba5-4bdc-884c-bb5243c00ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- *id004
+- *id005
+- *id003
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013

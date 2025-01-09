@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 867b51b3-c827-4748-866f-404fe3d4b2de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 867b51b3-c827-4748-866f-404fe3d4b2de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

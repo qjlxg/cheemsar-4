@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本-01 - 畅游无限, server: 52.198.51.119, port: 8443, type: vmess, uuid: 480e0b46-36f6-4e66-81ec-886aac660485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本-02 - 畅游无限, server: 52.198.209.168, port: 8443, type: vmess, uuid: 480e0b46-36f6-4e66-81ec-886aac660485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}

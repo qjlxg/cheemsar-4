@@ -1,5 +1,21 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: ba7c41d7d787c2a946dadc0c7542e0c9.node.tro.node-is.green, port: 46735, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 2310cf4f3e4119a51b102dc616117aed.node.tro.node-is.green, port: 43532, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id006 {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id007 {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: be8f9e56-6ca3-401e-8130-e62996f9b1f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇯🇵 日本NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: f3e7024d-7ef9-4440-adcb-f1485b945416, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇯🇵 日本NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: f3e7024d-7ef9-4440-adcb-f1485b945416, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- {name: 🇯🇵 日本-01 - 畅游无限, server: 52.198.51.119, port: 8443, type: vmess, uuid: 480e0b46-36f6-4e66-81ec-886aac660485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本-02 - 畅游无限, server: 52.198.209.168, port: 8443, type: vmess, uuid: 480e0b46-36f6-4e66-81ec-886aac660485, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- &id003 {name: '🇯🇵 [3x] 日本 IEPL专线NO1 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: 2f2a2b2a-cf0c-42ed-9283-6ab4d6090f25, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id004 {name: '🇯🇵 [3x] 日本 IEPL专线NO2 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: 2f2a2b2a-cf0c-42ed-9283-6ab4d6090f25, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: b5a99f40-3dcb-4b4a-ae97-11ca13bdea00, udp: true}
+- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 934f0a30-a04d-47ae-b5e8-94e9fef919c3, udp: true}
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007

@@ -1,5 +1,19 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 24229ed4375ca322ce22a3c48e26bc6e.node.tro.node-is.green, port: 44305, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 76135882e04c84c737c21301919540d5.node.tro.node-is.green, port: 41291, type: trojan, password: df619bb0-a973-437b-8257-4119ff436ac0, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 73a97c77-e1d9-4d88-8f10-5eaa4ad49d19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- &id001 {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: f3e7024d-7ef9-4440-adcb-f1485b945416, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: f3e7024d-7ef9-4440-adcb-f1485b945416, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- &id006 {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: 7177ea64-39df-4779-8113-c26c10bc49c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
+- &id004 {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 2f2a2b2a-cf0c-42ed-9283-6ab4d6090f25, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id005 {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 2f2a2b2a-cf0c-42ed-9283-6ab4d6090f25, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id003
+- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: b5a99f40-3dcb-4b4a-ae97-11ca13bdea00, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 0a837be8-96ac-3ef4-9b98-d1b36ce64a84, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 934f0a30-a04d-47ae-b5e8-94e9fef919c3, udp: true}
+- *id004
+- *id005
+- *id003
+- *id006
