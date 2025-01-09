@@ -6,18 +6,18 @@
 
 [lianjiasub.work]
 buy  pass
-email  khublctd367@gmail.com
+email  hdcnbubdn507@gmail.com
 name  廉价机场
 node_n  16
-sub_info  0B  20G  2025-01-08 14:38:22+08:00  (剩余 20G 2:59:51.779070)
-sub_url  http://106.75.178.88:82/api/v1/client/subscribe?token=abd993fe1be53db3daf8149309e41488
-time  2025-01-08 11:38:24.146796+08:00
+sub_info  0B  20G  2025-01-09 11:51:52+08:00  (剩余 20G 2:59:49.159654)
+sub_url  http://106.75.178.88:82/api/v1/client/subscribe?token=3125c276d5b3ba219347f55aca1dee7c
+time  2025-01-09 08:51:52.909685+08:00
 type  v2board
 
 [ly.ccwink.cc]
 name  凌云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dywxsrzq59@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wifnplg682@gmail.com): 'NoneType' object is not subscriptable
 
 [mf.kejifan88.top]
 
@@ -57,7 +57,7 @@ type  v2board
 banned_domains  snapmail.cc
 name  365Cloud
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(duzkthax464@snapmail.cc)
+更新订阅链接/续费续签失败  注册失败(sxrwnmnxc912@bareed.ws): 邮箱后缀不处于白名单中
 
 [vpn.gougouvpn.xyz:88]
 
@@ -66,14 +66,14 @@ type  v2board
 [www.fanqiang88.top]
 name  翻墙吧
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(stlvublv62@moakt.cc): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(yhiivwpz902@teml.net): {'message': '验证码有误'}
 
 [www.freeflyingcloud.xyz]
 
 [www.mmsbs.buzz]
 name  白纸机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ctbbvxed647@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(zcrsfrw587@gmail.com): 'NoneType' object is not subscriptable
 
 [www.pingzicloud.top]
 
@@ -111,7 +111,7 @@ type  sspanel
 [12123.org]
 name  123云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(qxkqpon766@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(yyvvaqgb105@gmail.com): 'NoneType' object is not subscriptable
 
 [123abc.love]
 
@@ -135,12 +135,12 @@ type  v2board
 
 [231787.xyz]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uurfdcp898@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wilvqeglv251@gmail.com): 'NoneType' object is not subscriptable
 
 [2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz]
 name  🏆 比特云
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  发送邮箱验证码失败(jzuboouli271@smartnator.com): {'message': '图形验证码不正确请重新输入'}
 
 [25054128.xyz]
 
