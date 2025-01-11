@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: fc86eb597ca2536a8f80efbb625e0f41.node.tro.node-is.green, port: 46316, type: trojan, password: ce85b010-9a0f-4a87-9d8a-e6c67ec37aad, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 384c2a24367f5d8fe34721f34c3dc544.node.tro.node-is.green, port: 40085, type: trojan, password: ce85b010-9a0f-4a87-9d8a-e6c67ec37aad, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
