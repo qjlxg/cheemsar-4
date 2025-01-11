@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾节点1 - 老牛云, server: 183.232.159.51, port: 55971, type: ss, cipher: chacha20-ietf-poly1305, password: d67e1302-8898-40d5-986a-3c458898807d, udp: true}
-- {name: 🇹🇼 台湾节点2 - 老牛云, server: 183.232.159.51, port: 15132, type: ss, cipher: chacha20-ietf-poly1305, password: d67e1302-8898-40d5-986a-3c458898807d, udp: true}
-- {name: 🇹🇼 台湾节点3 - 老牛云, server: 183.232.159.51, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: d67e1302-8898-40d5-986a-3c458898807d, udp: true}
-- {name: 🇹🇼 台湾节点4 - 老牛云, server: 183.232.159.51, port: 58246, type: ss, cipher: chacha20-ietf-poly1305, password: d67e1302-8898-40d5-986a-3c458898807d, udp: true}
+- {name: 🇹🇼 台湾节点1 - 老牛云, server: 183.232.159.51, port: 55971, type: ss, cipher: chacha20-ietf-poly1305, password: 015972ef-ae77-421a-9c64-c9aa14ec6562, udp: true}
+- {name: 🇹🇼 台湾节点2 - 老牛云, server: 183.232.159.51, port: 15132, type: ss, cipher: chacha20-ietf-poly1305, password: 015972ef-ae77-421a-9c64-c9aa14ec6562, udp: true}
+- {name: 🇹🇼 台湾节点3 - 老牛云, server: 183.232.159.51, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 015972ef-ae77-421a-9c64-c9aa14ec6562, udp: true}
+- {name: 🇹🇼 台湾节点4 - 老牛云, server: 183.232.159.51, port: 58246, type: ss, cipher: chacha20-ietf-poly1305, password: 015972ef-ae77-421a-9c64-c9aa14ec6562, udp: true}

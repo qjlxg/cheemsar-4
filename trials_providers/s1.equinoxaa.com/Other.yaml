@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国-01 - 畅游无限, server: 54.180.148.244, port: 8443, type: vmess, uuid: 5ea892c4-0d40-4c6d-bd4b-d74d14731db2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-02 - 畅游无限, server: 3.38.104.67, port: 8443, type: vmess, uuid: 5ea892c4-0d40-4c6d-bd4b-d74d14731db2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇰🇷 韩国-01 - 畅游无限, server: 54.180.148.244, port: 8443, type: vmess, uuid: a16668b4-7c1a-48dd-ab4b-05c9366b9a97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇰🇷 韩国-02 - 畅游无限, server: 43.201.82.41, port: 8443, type: vmess, uuid: a16668b4-7c1a-48dd-ab4b-05c9366b9a97, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
