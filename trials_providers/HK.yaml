@@ -1,5 +1,6 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 196fcfc8-ca71-4697-9af3-12f193b7eb8c, udp: true}
 - {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 11325, type: vmess, uuid: 199df1fb-077f-43b4-9727-3c92889336d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 39974b92-0f81-32f7-a4b3-abef97ac7319, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}

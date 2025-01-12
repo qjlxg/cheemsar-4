@@ -3,7 +3,7 @@ buy  period=month_price&plan_id=1
 email  swowrta204@gmail.com
 name  青云互联网-
 node_n  1
-sub_info  0B  50G  2025-02-18 21:14:11+08:00  (剩余 50G 37 days, 23:13:06.916066)
+sub_info  0B  50G  2025-02-18 21:14:11+08:00  (剩余 50G 37 days, 11:37:15.173810)
 sub_url  https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=c883e0483b0f11b80b3254a8da93568b
 time  2025-01-11 09:14:12.811597+08:00
 type  v2board
@@ -12,8 +12,8 @@ type  v2board
 buy  pass
 email  tsgpdirpo19@gmail.com
 name  meiguis
-node_n  0
-sub_info  0B  7G  2025-01-13 09:14:06+08:00  (剩余 7G 1 day, 11:13:01.682536)
+node_n  6
+sub_info  0B  7G  2025-01-13 09:14:06+08:00  (剩余 7G 23:35:08.576499)
 sub_url  http://meipo.xccccao.net/api/v1/client/subscribe?token=cb0046a9cfc264f97c31a1a81d711f7b
 time  2025-01-11 09:14:07.151093+08:00
 type  v2board
@@ -22,10 +22,10 @@ type  v2board
 auto_invite  F
 buy  pass
 email  neyolizsq706@gmail.com
-last_checkin  2025-01-11 09:14:07.052616+08:00
+last_checkin  2025-01-12 09:36:54.767717+08:00
 name  MG Network
 node_n  10
-sub_info  0B  5.532G  2025-01-13 10:14:06+08:00  (剩余 5.532G 1 day, 12:13:01.306391)
+sub_info  3.34G  5.996G  2025-01-13 10:14:06+08:00  (剩余 2.656G 1 day, 0:37:08.546913)
 sub_url  https://www.mgnet.sbs/link/6nu1sn1biXLmrtf9?sub=3
 time  2025-01-11 09:14:07.459744+08:00
 type  sspanel
@@ -34,7 +34,7 @@ type  sspanel
 email  gulazwnmb314@gmail.com
 name  畅游无限
 node_n  12
-sub_info  1.126G  20G  2025-01-18 05:14:07+08:00  (剩余 18.87G 6 days, 7:12:51.540335)
+sub_info  9.08G  20G  2025-01-18 05:14:07+08:00  (剩余 10.92G 5 days, 19:37:08.438893)
 sub_url  https://s1.equinoxaa.com/api/v1/client/subscribe?token=f7bee39200e1f1e8c8a746113f97459a
 time  2025-01-11 09:14:08.191474+08:00
 type  v2board
@@ -43,7 +43,7 @@ type  v2board
 buy  period=month_price&plan_id=1
 email  hryzubnr503@gmail.com
 name  懒猫机场
-sub_info  0B  99G  2025-02-11 09:14:10+08:00  (剩余 99G 30 days, 10:59:41.570392)
+sub_info  0B  99G  2025-02-11 09:14:10+08:00  (剩余 99G 29 days, 23:26:21.225587)
 sub_url  https://dy.yimao.icu/api/v1/client/subscribe?token=1624beffcd5c4a501baca6dfe54ad311
 time  2025-01-11 09:14:09.513800+08:00
 type  v2board
@@ -53,10 +53,10 @@ type  v2board
 auto_invite  F
 buy  shop=31
 email  njbzpjdx382@gmail.com
-last_checkin  2025-01-11 09:16:48.052024+08:00
+last_checkin  2025-01-12 09:36:54.765628+08:00
 name  大白
 node_n  7
-sub_info  906.2M  1T  2025-02-10 09:16:47+08:00  (剩余 1023G 29 days, 11:15:42.029242)
+sub_info  1.227G  1T  2025-02-10 09:16:47+08:00  (剩余 1023G 28 days, 23:39:36.652926)
 sub_url  https://cc.dabai.in/link/qs2MGbz219pfCuYV?sub=3
 time  2025-01-11 09:16:49.322869+08:00
 type  sspanel
@@ -65,17 +65,17 @@ type  sspanel
 buy  period=month_price&plan_id=6
 email  tjgwvtw585@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-02-11 09:17:11+08:00  (剩余 1G 30 days, 11:07:16.968622)
+sub_info  0B  1G  2025-02-11 09:17:11+08:00  (剩余 1G 29 days, 23:29:11.680583)
 sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=9b98f3a3014d501c2444215fe07934f4
 time  2025-01-11 09:17:11.918797+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 
 [s3.equinoxaa.com]
 email  rlrasofbz813@gmail.com
 name  畅游无限
 node_n  12
-sub_info  1.192G  20G  2025-01-18 05:17:13+08:00  (剩余 18.81G 6 days, 7:16:07.947002)
+sub_info  1.192G  20G  2025-01-18 05:17:13+08:00  (剩余 18.81G 5 days, 19:40:10.061336)
 sub_url  https://s1.equinoxaa.com/api/v1/client/subscribe?token=158231152ee9703cb4ef5abe10c14422
 time  2025-01-11 09:17:14.653527+08:00
 type  v2board
@@ -85,7 +85,7 @@ buy  pass
 email  bwigyvq445@tmpbox.net
 name  F2ray
 node_n  1
-sub_info  1020M  10G  2025-02-10 09:17:41+08:00  (剩余 9.004G 29 days, 11:16:35.813261)
+sub_info  1.382G  10G  2025-02-10 09:17:41+08:00  (剩余 8.618G 28 days, 23:40:43.832885)
 sub_url  https://www.f2ray.com/api/v1/client/subscribe?token=4ba682f05e1200d077b4b25070a5f1f0
 time  2025-01-11 09:17:41.931144+08:00
 type  v2board
@@ -95,7 +95,7 @@ buy  period=month_price&plan_id=19
 email  ybqblseq825@gmail.com
 name  漏网之鱼
 node_n  16
-sub_info  0B  1000G  2025-02-11 09:17:18+08:00  (剩余 1000G 30 days, 11:14:12.241012)
+sub_info  213K  1000G  2025-02-11 09:17:18+08:00  (剩余 1000G 29 days, 23:38:19.265834)
 sub_url  https://ch.vfkum.website/api/v1/client/subscribe?token=95d54a3e42e114bb6fdd15951d37866b
 time  2025-01-11 09:17:19.102988+08:00
 type  v2board
@@ -104,8 +104,8 @@ type  v2board
 buy  period=month_price&plan_id=6
 email  mvzrvsy817@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-02-11 09:17:19+08:00  (剩余 1G 30 days, 11:05:08.854712)
+sub_info  0B  1G  2025-02-11 09:17:19+08:00  (剩余 1G 29 days, 23:31:21.781052)
 sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=73e6659add1c3b3651ee5b934f76c25e
 time  2025-01-11 09:17:20.186291+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
